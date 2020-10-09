@@ -3,6 +3,7 @@ Content
 - [量子应用](#量子应用)
 - [对话检索](#对话检索)
 - [多模态对话情感分类](#多模态对话情感分类)
+- [多模态](#多模态)
 
 
 # 量子与复数网络
@@ -25,4 +26,12 @@ Content
  - AAAI2020, [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf)&[note](./note/2020_09.md)
  - Arxiv 2020,[Multi-Task Learning with Auxiliary Speaker Identification for Conversational
 Emotion Recognition](https://arxiv.org/abs/2003.01478)&[note]("./note/2020_10.md")
- - EMMLP,2019.[DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation]("./note/2020_10.md")
+ - EMMLP,2019.[DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation]() [&note]("./note/2020_10.md")
+ - Arixiv,2019,[PT-CoDE: Pre-trained Context-Dependent Encoder for
+Utterance-level Emotion Recognition](https://arxiv.org/pdf/1910.08916.pdf) &[note]("./note/2020_10.md")
+
+
+
+
+# 多模态
+- AAAI 2019,[Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://www.aaai.org/ojs/index.php/AAAI/article/view/4706) &[note]("./note/2020_10.md")
