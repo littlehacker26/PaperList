@@ -7,7 +7,7 @@ Content
 
 
 # 量子与复数网络
-  - IRLR2020, [Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen:Encoding word order in complex embeddings.](https://arxiv.org/pdf/2006.05009.pdf)  & [note](./note/2020_09_25.md)
+  - IRLR2020, [Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen:Encoding word order in complex embeddings.](https://iclr.cc/virtual_2020/poster_Hke-WTVtwr.html)  & [note](./note/2020_09_25.md)
   -
 
 
