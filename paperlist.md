@@ -37,4 +37,5 @@ Dialogue with Topic-Aware Multi-Task Learning](file:///C:/Users/admin/Downloads/
 
 # 多模态
 - AAAI 2019,[Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://www.aaai.org/ojs/index.php/AAAI/article/view/4706) &[note]("./note/2020_10.md")
-- ACL 2019,[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295.pdf) &[note](./2020_10.md)
+- ACL 2019,[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295.pdf) &[note](./note/2020_10.md)
+- AAAI,2019,[Found in Translation:Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/pdf/1812.07809.pdf)&[note](./note/2020_10.md)
