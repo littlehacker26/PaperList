@@ -4,6 +4,7 @@ Content
 - [对话检索](#对话检索)
 - [多模态对话情感分类](#多模态对话情感分类)
 - [多模态](#多模态)
+- [其他](#其他)
 
 
 # 量子与复数网络
@@ -39,3 +40,12 @@ Dialogue with Topic-Aware Multi-Task Learning](file:///C:/Users/admin/Downloads/
 - AAAI 2019,[Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://www.aaai.org/ojs/index.php/AAAI/article/view/4706) &[note]("./note/2020_10.md")
 - ACL 2019,[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295.pdf) &[note](./note/2020_10.md)
 - AAAI,2019,[Found in Translation:Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/pdf/1812.07809.pdf)&[note](./note/2020_10.md)
+
+
+
+
+# 其他
+- AAAI 2020, [Fine-grained Recognition: Accounting for Subtle Differences between Similar Classes](https://arxiv.org/pdf/1912.06842.pdf),&[note](./note/2020_10.md)
+
+
+- AAAI 2020, [](),&[note]()
