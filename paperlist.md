@@ -4,12 +4,18 @@ Content
 - [对话检索](#对话检索)
 - [多模态对话情感分类](#多模态对话情感分类)
 - [多模态](#多模态)
+- [对话任务](#对话任务)
+
 - [其他](#其他)
 
 
 # 量子与复数网络
   - IRLR2020, [Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen:Encoding word order in complex embeddings.](https://iclr.cc/virtual_2020/poster_Hke-WTVtwr.html)  & [note](./note/2020_09_25.md)
-  -
+  - IRLR2020,[Complex-Valued Neural Networks for Privacy Protection](https://www.researchgate.net/publication/330701041_Complex-Valued_Neural_Networks_for_Privacy_Protection)&[note](./note/2020_10.md)
+  - IRLR2018,[Deep Complex Network](https://arxiv.org/pdf/1705.09792.pdf)&[note](./note/2020_10.md)
+
+# 对话任务
+  -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](.note//2020_10.md)
 
 
 # 量子应用
@@ -48,6 +54,6 @@ Dialogue with Topic-Aware Multi-Task Learning](file:///C:/Users/admin/Downloads/
 
 # 其他
 - AAAI 2020, [Fine-grained Recognition: Accounting for Subtle Differences between Similar Classes](https://arxiv.org/pdf/1912.06842.pdf),&[note](./note/2020_10.md)
-
+- NIPS 2019, [Recurrent Space-time Graph Neural Networks](http://papers.nips.cc/paper/9444-recurrent-space-time-graph-neural-networks.pdf),&[note](./note/2020_10.md)
 
 - AAAI 2020, [](),&[note]()
