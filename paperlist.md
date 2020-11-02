@@ -39,6 +39,8 @@ Utterance-level Emotion Recognition](https://arxiv.org/pdf/1910.08916.pdf) &[not
  - AAAI,2020,[Sentiment Classification in Customer Service
 Dialogue with Topic-Aware Multi-Task Learning](file:///C:/Users/admin/Downloads/6454-Article%20Text-9679-1-10-20200517.pdf)&[note](./note/2020_10.md)
  - arxiv 2020,[Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1909.10681.pdf),&[note](./note/2020_10.md)
+ - EMNLP 2020,[COSMIC: COmmonSense knowledge for
+eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[note](./note/2020_11.md)
 
 
 
@@ -55,8 +57,7 @@ Dialogue with Topic-Aware Multi-Task Learning](file:///C:/Users/admin/Downloads/
 # 其他
 - AAAI 2020, [Fine-grained Recognition: Accounting for Subtle Differences between Similar Classes](https://arxiv.org/pdf/1912.06842.pdf),&[note](./note/2020_10.md)
 - NIPS 2019, [Recurrent Space-time Graph Neural Networks](http://papers.nips.cc/paper/9444-recurrent-space-time-graph-neural-networks.pdf),&[note](./note/2020_10.md)
-
 - ICML 2018, [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/abs/1803.09050),&[note](./note/2020_10.md)
-
+- ACL.2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://arxiv.org/abs/2006.01554),&[note](./note/2020_11.md)
 
 - AAAI 2020, [](),&[note]()
