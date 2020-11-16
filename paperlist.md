@@ -59,5 +59,7 @@ eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[not
 - NIPS 2019, [Recurrent Space-time Graph Neural Networks](http://papers.nips.cc/paper/9444-recurrent-space-time-graph-neural-networks.pdf),&[note](./note/2020_10.md)
 - ICML 2018, [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/abs/1803.09050),&[note](./note/2020_10.md)
 - ACL.2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://arxiv.org/abs/2006.01554),&[note](./note/2020_11.md)
+- Arixiv 2021, [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://arxiv.org/pdf/2011.01403.pdf),&[note](./note/2020_11.md)
+
 
 - AAAI 2020, [](),&[note]()
