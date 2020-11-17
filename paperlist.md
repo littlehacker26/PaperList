@@ -16,6 +16,10 @@ Content
 
 # 对话任务
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](.note//2020_10.md)
+  - EMNLP2020,[Group-wise Contrastive Learning for Neural Dialogue Generation
+](https://arxiv.org/abs/2009.07543) &[note](.note//2020_11.md)
+
+  - EMNLP2020,[Multi-turn Response Selection using Dialogue Dependency Relations](https://arxiv.org/abs/2010.01502)
 
 
 # 量子应用
@@ -61,5 +65,6 @@ eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[not
 - ACL.2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://arxiv.org/abs/2006.01554),&[note](./note/2020_11.md)
 - Arixiv 2021, [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://arxiv.org/pdf/2011.01403.pdf),&[note](./note/2020_11.md)
 
+- ICLR 2021, [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf),&[note](./note/2020_11.md)
 
 - AAAI 2020, [](),&[note]()
