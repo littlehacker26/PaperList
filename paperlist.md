@@ -5,7 +5,7 @@ Content
 - [多模态对话情感分类](#多模态对话情感分类)
 - [多模态](#多模态)
 - [对话任务](#对话任务)
-
+- [热点知识](#热点知识)
 - [其他](#其他)
 
 
@@ -18,9 +18,10 @@ Content
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](.note//2020_10.md)
   - EMNLP2020,[Group-wise Contrastive Learning for Neural Dialogue Generation
 ](https://arxiv.org/abs/2009.07543) &[note](.note//2020_11.md)
-
   - EMNLP2020,[Multi-turn Response Selection using Dialogue Dependency Relations](https://arxiv.org/abs/2010.01502)
-
+  - EMNLP2020,[Structured Attention for Unsupervised Dialogue Structure Induction](https://www.aclweb.org/anthology/2020.emnlp-main.148/)&[note](./note/2020_11.md)
+  - AAAI2019,[A Deep Sequential Model for Discourse Parsing on Multi-Party Dialogues](https://arxiv.org/pdf/1812.00176.pdf)&[note](./note/2020_11.md)
+  - AAAI2020,[Who Did They Respond to? Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/abs/1911.10666)&[note]()
 
 # 量子应用
   - 添加
@@ -47,6 +48,7 @@ Dialogue with Topic-Aware Multi-Task Learning](file:///C:/Users/admin/Downloads/
 eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[note](./note/2020_11.md)
 
 
+# 量子应用
 
 
 
@@ -56,13 +58,20 @@ eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[not
 - AAAI,2019,[Found in Translation:Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/pdf/1812.07809.pdf)&[note](./note/2020_10.md)
 
 
+# 热点知识
+- Arixiv 2020, [SUPERVISED CONTRASTIVE LEARNING FOR PRETRAINED LANGUAGE MODEL F INE-TUNING](https://arxiv.org/abs/2011.01403),&[note]()
+
 
 
 # 其他
 - AAAI 2020, [Fine-grained Recognition: Accounting for Subtle Differences between Similar Classes](https://arxiv.org/pdf/1912.06842.pdf),&[note](./note/2020_10.md)
+
 - NIPS 2019, [Recurrent Space-time Graph Neural Networks](http://papers.nips.cc/paper/9444-recurrent-space-time-graph-neural-networks.pdf),&[note](./note/2020_10.md)
+
 - ICML 2018, [Learning to Reweight Examples for Robust Deep Learning](https://arxiv.org/abs/1803.09050),&[note](./note/2020_10.md)
+
 - ACL.2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://arxiv.org/abs/2006.01554),&[note](./note/2020_11.md)
+
 - Arixiv 2021, [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://arxiv.org/pdf/2011.01403.pdf),&[note](./note/2020_11.md)
 
 - ICLR 2021, [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf),&[note](./note/2020_11.md)
