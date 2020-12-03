@@ -6,6 +6,8 @@ Content
 - [多模态](#多模态)
 - [对话任务](#对话任务)
 - [热点知识](#热点知识)
+- [对话结构](#对话结构)
+
 - [其他](#其他)
 
 
@@ -30,6 +32,12 @@ Content
 # 对话检索
   - SIGIR2020,[Few-Shot Generative Conversational Query Rewriting](https://www.microsoft.com/en-us/research/publication/few-shot-generative-conversational-query-rewriting/) & [note](./note/2020_09.md)
   - WWWW2020, [Leading Conversational Search by Suggesting Useful Questions.](www.baidu.com)
+
+# 对话结构
+  - AAAI2018,[Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs](https://arxiv.org/pdf/1709.04005.pdf)&[note]()
+  - ACL2016,[Addressee and Response Selection for Multi-Party Conversation](https://www.aclweb.org/anthology/D16-1231/)&[note]()
+  - EMNLP 2019,[Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations](https://www.aclweb.org/anthology/D19-1199/)&[note]()
+
 
 
 
