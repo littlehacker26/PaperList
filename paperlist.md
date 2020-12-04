@@ -7,7 +7,7 @@ Content
 - [对话任务](#对话任务)
 - [热点知识](#热点知识)
 - [对话结构](#对话结构)
-
+- [对话生成](# 对话生成)
 - [其他](#其他)
 
 
@@ -37,6 +37,11 @@ Content
   - AAAI2018,[Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs](https://arxiv.org/pdf/1709.04005.pdf)&[note]()
   - ACL2016,[Addressee and Response Selection for Multi-Party Conversation](https://www.aclweb.org/anthology/D16-1231/)&[note]()
   - EMNLP 2019,[Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations](https://www.aclweb.org/anthology/D19-1199/)&[note]()
+  - Arixiv2020,[Online Conversation Disentanglement with Pointer Networks](https://arxiv.org/pdf/2010.11080.pdf)
+
+
+# 对话生成
+- CIKM2020,[Ranking Enhanced Dialogue Generation](https://arxiv.org/pdf/2008.05640.pdf )
 
 
 
@@ -50,7 +55,7 @@ Emotion Recognition](https://arxiv.org/abs/2003.01478)&[note]("./note/2020_10.md
  - Arixiv,2019,[PT-CoDE: Pre-trained Context-Dependent Encoder for
 Utterance-level Emotion Recognition](https://arxiv.org/pdf/1910.08916.pdf) &[note](./note/2020_10.md)
  - AAAI,2020,[Sentiment Classification in Customer Service
-Dialogue with Topic-Aware Multi-Task Learning](file:///C:/Users/admin/Downloads/6454-Article%20Text-9679-1-10-20200517.pdf)&[note](./note/2020_10.md)
+Dialogue with Topic-Aware Multi-Task Learning](https://ojs.aaai.org//index.php/AAAI/article/view/6454)&[note](./note/2020_10.md)
  - arxiv 2020,[Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1909.10681.pdf),&[note](./note/2020_10.md)
  - EMNLP 2020,[COSMIC: COmmonSense knowledge for
 eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[note](./note/2020_11.md)
