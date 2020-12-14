@@ -88,5 +88,6 @@ eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[not
 - Arixiv 2021, [Supervised Contrastive Learning for Pre-trained Language Model Fine-tuning](https://arxiv.org/pdf/2011.01403.pdf),&[note](./note/2020_11.md)
 
 - ICLR 2021, [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/pdf/2002.05709.pdf),&[note](./note/2020_11.md)
+- ICML 2020,[Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere](https://arxiv.org/pdf/2005.10242.pdf)
 
 - AAAI 2020, [](),&[note]()
