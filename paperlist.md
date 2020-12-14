@@ -15,6 +15,9 @@ Content
   - IRLR2020, [Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen:Encoding word order in complex embeddings.](https://iclr.cc/virtual_2020/poster_Hke-WTVtwr.html)  & [note](./note/2020_09_25.md)
   - IRLR2020,[Complex-Valued Neural Networks for Privacy Protection](https://www.researchgate.net/publication/330701041_Complex-Valued_Neural_Networks_for_Privacy_Protection)&[note](./note/2020_10.md)
   - IRLR2018,[Deep Complex Network](https://arxiv.org/pdf/1705.09792.pdf)&[note](./note/2020_10.md)
+  - NIPS2016,[Unitary Evolution Recurrent Neural Networks](https://arxiv.org/pdf/1511.06464.pdf)
+  - NIPS2016,[Full-Capacity Unitary Recurrent Neural Networks](https://dl.acm.org/doi/pdf/10.5555/3157382.3157643)
+  - ICLR 2018,[KRONECKER RECURRENT UNITS](https://openreview.net/pdf?id=SyR6Ul1Pf)
 
 # 对话任务
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](.note//2020_10.md)
@@ -24,9 +27,10 @@ Content
   - EMNLP2020,[Structured Attention for Unsupervised Dialogue Structure Induction](https://www.aclweb.org/anthology/2020.emnlp-main.148/)&[note](./note/2020_11.md)
   - AAAI2019,[A Deep Sequential Model for Discourse Parsing on Multi-Party Dialogues](https://arxiv.org/pdf/1812.00176.pdf)&[note](./note/2020_11.md)
   - AAAI2020,[Who Did They Respond to? Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/abs/1911.10666)&[note]()
+  - ACL2020,[Towards Emotion-aided Multi-modal Dialogue Act Classification](https://www.aclweb.org/anthology/2020.acl-main.402/)
 
 # 量子应用
-  - 添加
+  - AAAI2021,[Quantum-inspired Neural Network for Conversational Emotion Recognition]()
 
 
 # 对话检索
@@ -59,9 +63,6 @@ Dialogue with Topic-Aware Multi-Task Learning](https://ojs.aaai.org//index.php/A
  - arxiv 2020,[Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1909.10681.pdf),&[note](./note/2020_10.md)
  - EMNLP 2020,[COSMIC: COmmonSense knowledge for
 eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[note](./note/2020_11.md)
-
-
-# 量子应用
 
 
 # 多模态
