@@ -64,7 +64,6 @@ eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[not
 # 量子应用
 
 
-
 # 多模态
 - AAAI 2019,[Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://www.aaai.org/ojs/index.php/AAAI/article/view/4706) &[note]("./note/2020_10.md")
 - ACL 2019,[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295.pdf) &[note](./note/2020_10.md)
