@@ -21,8 +21,7 @@ Content
 
 # 对话任务
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](.note//2020_10.md)
-  - EMNLP2020,[Group-wise Contrastive Learning for Neural Dialogue Generation
-](https://arxiv.org/abs/2009.07543) &[note](.note//2020_11.md)
+  - EMNLP2020,[Group-wise Contrastive Learning for Neural Dialogue Generation](https://arxiv.org/abs/2009.07543) &[note](.note//2020_11.md)
   - EMNLP2020,[Multi-turn Response Selection using Dialogue Dependency Relations](https://arxiv.org/abs/2010.01502)
   - EMNLP2020,[Structured Attention for Unsupervised Dialogue Structure Induction](https://www.aclweb.org/anthology/2020.emnlp-main.148/)&[note](./note/2020_11.md)
   - AAAI2019,[A Deep Sequential Model for Discourse Parsing on Multi-Party Dialogues](https://arxiv.org/pdf/1812.00176.pdf)&[note](./note/2020_11.md)
@@ -53,16 +52,14 @@ Content
 # 多模态对话情感分类
  - IEEE Trans on Affective Computing,2020. [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/abstract/document/9128015/) &[note](./note/2020_09.md)
  - AAAI2020, [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf)&[note](./note/2020_09.md)
- - Arxiv 2020,[Multi-Task Learning with Auxiliary Speaker Identification for Conversational
-Emotion Recognition](https://arxiv.org/abs/2003.01478)&[note]("./note/2020_10.md")
- - EMMLP,2019.[DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation]() [&note](./note/2020_10.md)
- - Arixiv,2019,[PT-CoDE: Pre-trained Context-Dependent Encoder for
-Utterance-level Emotion Recognition](https://arxiv.org/pdf/1910.08916.pdf) &[note](./note/2020_10.md)
- - AAAI,2020,[Sentiment Classification in Customer Service
-Dialogue with Topic-Aware Multi-Task Learning](https://ojs.aaai.org//index.php/AAAI/article/view/6454)&[note](./note/2020_10.md)
+ - Arxiv 2020,[Multi-Task Learning with Auxiliary Speaker Identification for ConversationalEmotion Recognition](https://arxiv.org/abs/2003.01478)&[note]("./note/2020_10.md")
+ - EMMLP,2019. [DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation]() [&note](./note/2020_10.md)
+ - Arixiv,2019,[PT-CoDE: Pre-trained Context-Dependent Encoder for Utterance-level Emotion Recognition](https://arxiv.org/pdf/1910.08916.pdf) &[note](./note/2020_10.md)
+ - AAAI,2020,[Sentiment Classification in Customer Service Dialogue with Topic-Aware Multi-Task Learning](https://ojs.aaai.org//index.php/AAAI/article/view/6454)&[note](./note/2020_10.md)
  - arxiv 2020,[Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1909.10681.pdf),&[note](./note/2020_10.md)
- - EMNLP 2020,[COSMIC: COmmonSense knowledge for
-eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[note](./note/2020_11.md)
+ - EMNLP 2020,[COSMIC: COmmonSense knowledge for eMotion Identification in Conversations](https://arxiv.org/abs/2010.02795),&[note](./note/2020_11.md)
+ - AAAI 2021,[DialogXL: All-in-One XLNet for Multi-Party Conversation Emotion Recognition](https://arxiv.org/pdf/2012.08695.pdf)
+ - Arixiv,2020,[A Hierarchical Transformer with Speaker Modeling for Emotion Recognition in Conversation](https://arxiv.org/pdf/2012.14781.pdf)
 
 
 # 多模态
