@@ -70,6 +70,7 @@ Content
 
 # 热点知识
 - Arixiv 2020, [SUPERVISED CONTRASTIVE LEARNING FOR PRETRAINED LANGUAGE MODEL F INE-TUNING](https://arxiv.org/abs/2011.01403),&[note]()
+- Arixiv 2020,[Neural Passage Retrieval with Improved Negative Contrast](https://arxiv.org/pdf/2010.12523.pdf)
 
 
 
