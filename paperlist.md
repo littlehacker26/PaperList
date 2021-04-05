@@ -72,6 +72,10 @@ Content
 - Arixiv 2020, [SUPERVISED CONTRASTIVE LEARNING FOR PRETRAINED LANGUAGE MODEL F INE-TUNING](https://arxiv.org/abs/2011.01403),&[note]()
 - Arixiv 2020,[Neural Passage Retrieval with Improved Negative Contrast](https://arxiv.org/pdf/2010.12523.pdf)
 
+#可控文本生成
+- ICLR2020,[Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
+- ICLR2021,[A DISTRIBUTIONAL APPROACH TO CONTROLLED TEXT GENERATION](https://openreview.net/pdf?id=jWkw45-9AbL)
+
 
 
 # 其他
