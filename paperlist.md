@@ -75,6 +75,7 @@ Content
 #可控文本生成
 - ICLR2020,[Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
 - ICLR2021,[A DISTRIBUTIONAL APPROACH TO CONTROLLED TEXT GENERATION](https://openreview.net/pdf?id=jWkw45-9AbL)
+- Arixiv,[ Controllable Generation from Pre-trained Language Models via Inverse Prompting](https://arxiv.org/pdf/2103.10685.pdf)
 
 
 
