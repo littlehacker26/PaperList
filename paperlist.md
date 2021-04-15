@@ -53,7 +53,7 @@ Content
  - IEEE Trans on Affective Computing,2020. [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/abstract/document/9128015/) &[note](./note/2020_09.md)
  - AAAI2020, [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf)&[note](./note/2020_09.md)
  - Arxiv 2020,[Multi-Task Learning with Auxiliary Speaker Identification for ConversationalEmotion Recognition](https://arxiv.org/abs/2003.01478)&[note]("./note/2020_10.md")
- - EMMLP,2019. [DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation]() [&note](./note/2020_10.md)
+ - EMMLP,2019, [DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation]() [&note](./note/2020_10.md)
  - Arixiv,2019,[PT-CoDE: Pre-trained Context-Dependent Encoder for Utterance-level Emotion Recognition](https://arxiv.org/pdf/1910.08916.pdf) &[note](./note/2020_10.md)
  - AAAI,2020,[Sentiment Classification in Customer Service Dialogue with Topic-Aware Multi-Task Learning](https://ojs.aaai.org//index.php/AAAI/article/view/6454)&[note](./note/2020_10.md)
  - arxiv 2020,[Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations](https://arxiv.org/pdf/1909.10681.pdf),&[note](./note/2020_10.md)
