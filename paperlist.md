@@ -77,6 +77,7 @@ Content
 - ICLR2021,[A DISTRIBUTIONAL APPROACH TO CONTROLLED TEXT GENERATION](https://openreview.net/pdf?id=jWkw45-9AbL)
 - Arixiv,[ Controllable Generation from Pre-trained Language Models via Inverse Prompting](https://arxiv.org/pdf/2103.10685.pdf)
 - arixiv,[Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes](https://arxiv.org/pdf/2104.04039.pdf)
+- arixiv 2021,[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 
 
 
