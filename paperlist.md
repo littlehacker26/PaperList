@@ -78,6 +78,7 @@ Content
 - Arixiv,[ Controllable Generation from Pre-trained Language Models via Inverse Prompting](https://arxiv.org/pdf/2103.10685.pdf)
 - arixiv,[Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes](https://arxiv.org/pdf/2104.04039.pdf)
 - arixiv 2021,[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
+- ICLR,2021, [COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION](https://arxiv.org/pdf/2006.03535.pdf)
 
 
 
