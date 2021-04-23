@@ -80,6 +80,7 @@ Content
 - arixiv 2021,[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 - ICLR,2021, [COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION](https://arxiv.org/pdf/2006.03535.pdf)
 - ICLR,2020.[GEDI: GENERATIVE DISCRIMINATOR GUIDED SEQUENCE GENERATION](https://arxiv.org/pdf/2009.06367.pdf)
+- ICLR,2019.[CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://arxiv.org/pdf/1909.05858.pdf)
 
 
 
