@@ -82,6 +82,10 @@ Content
 - ICLR,2020.[GEDI: GENERATIVE DISCRIMINATOR GUIDED SEQUENCE GENERATION](https://arxiv.org/pdf/2009.06367.pdf)
 - ICLR,2019.[CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://arxiv.org/pdf/1909.05858.pdf)
 
+# Story telling
+- AAAI2019,[Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/pdf/1811.05701.pdf)
+- Arixiv2021,[Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes](https://arxiv.org/pdf/2104.04039.pdf)
+
 
 
 # 其他
