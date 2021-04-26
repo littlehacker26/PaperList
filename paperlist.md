@@ -81,6 +81,7 @@ Content
 - ICLR,2021, [COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION](https://arxiv.org/pdf/2006.03535.pdf)
 - ICLR,2020.[GEDI: GENERATIVE DISCRIMINATOR GUIDED SEQUENCE GENERATION](https://arxiv.org/pdf/2009.06367.pdf)
 - ICLR,2019.[CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://arxiv.org/pdf/1909.05858.pdf)
+- EMNLP2020,[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
 
 # Story telling
 - AAAI2019,[Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/pdf/1811.05701.pdf)
