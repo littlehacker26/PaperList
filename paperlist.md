@@ -84,6 +84,7 @@ Content
 - EMNLP2020,[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
 - ICML2020,[Discriminative Adversarial Search for Abstractive Summarization](https://arxiv.org/pdf/2002.10375.pdf)
 - EMNLP2020,[If Beam Search is the Answer, What was the Question?](https://arxiv.org/pdf/2010.02650.pdf)
+- CCOLING2020,[https://arxiv.org/pdf/2005.01822.pdf](https://arxiv.org/pdf/2005.01822.pdf)
 
 # Story telling
 - AAAI2019,[Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/pdf/1811.05701.pdf)
