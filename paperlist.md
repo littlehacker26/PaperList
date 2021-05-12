@@ -1,4 +1,4 @@
-Content
+# Content
 - [量子与复数网络](#量子与复数网络)
 - [量子应用](#量子应用)
 - [对话检索](#对话检索)
@@ -11,7 +11,7 @@ Content
 - [其他](#其他)
 
 # 基础理论
-  - NIPS2019,[Distributional Reinforcement Learning for Energy-Based Sequential Models]（https://arxiv.org/pdf/1912.08517.pdf）
+  - NIPS2019, [Distributional Reinforcement Learning for Energy-Based Sequential Models]（https://arxiv.org/pdf/1912.08517.pdf）
 
 
 # 量子与复数网络
