@@ -10,6 +10,9 @@ Content
 - [对话生成](#对话生成)
 - [其他](#其他)
 
+# 基础理论
+  - NIPS2019,[Distributional Reinforcement Learning for Energy-Based Sequential Models]（https://arxiv.org/pdf/1912.08517.pdf）
+
 
 # 量子与复数网络
   - IRLR2020, [Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen:Encoding word order in complex embeddings.](https://iclr.cc/virtual_2020/poster_Hke-WTVtwr.html)  & [note](./note/2020_09_25.md)
