@@ -90,6 +90,10 @@
 - CCOLING2020,[https://arxiv.org/pdf/2005.01822.pdf](https://arxiv.org/pdf/2005.01822.pdf)
 - Arixic2021,[FUDGE: Controlled Text Generation With Future Discriminators](https://arxiv.org/pdf/2104.05218.pdf)
 
+# 文本生成（传统）
+- 句法结构引导[Syntax-Guided Controlled Generation of Paraphrases]（https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled-Generation-of-Paraphrases)
+- 
+
 # Story telling
 - AAAI2019,[Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/pdf/1811.05701.pdf)
 - Arixiv2021,[Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes](https://arxiv.org/pdf/2104.04039.pdf)
