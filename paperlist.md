@@ -93,7 +93,10 @@
 
 # 文本生成（传统）
 - 句法结构引导[Syntax-Guided Controlled Generation of Paraphrases]（https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled-Generation-of-Paraphrases)
-- 
+
+# 文本生成评测
+- ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696)
+
 
 # Story telling
 - AAAI2019,[Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/pdf/1811.05701.pdf)
