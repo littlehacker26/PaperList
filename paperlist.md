@@ -90,6 +90,7 @@
 - CCOLING2020,[https://arxiv.org/pdf/2005.01822.pdf](https://arxiv.org/pdf/2005.01822.pdf)
 - Arixiv 2021,[FUDGE: Controlled Text Generation With Future Discriminators](https://arxiv.org/pdf/2104.05218.pdf)
 - Arixiv 2020,[DEXPERTS: On-the-Fly Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/pdf/2105.03023.pdf)
+- EACL2020,[Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning](https://arxiv.org/pdf/2102.03554.pdf)
 
 # 文本生成（传统）
 - 句法结构引导[Syntax-Guided Controlled Generation of Paraphrases]（https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled-Generation-of-Paraphrases)
