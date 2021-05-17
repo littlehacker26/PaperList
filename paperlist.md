@@ -96,6 +96,7 @@
 
 # 文本生成评测
 - ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696)
+- Arixiv 2020, [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
 
 
 # Story telling
