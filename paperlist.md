@@ -93,11 +93,12 @@
 - EACL2020,[Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning](https://arxiv.org/pdf/2102.03554.pdf)
 
 # 文本生成（传统）
-- 句法结构引导[Syntax-Guided Controlled Generation of Paraphrases]（https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled-Generation-of-Paraphrases)
+- 句法结构引导 [Syntax-Guided Controlled Generation of Paraphrases](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled Generation-of-Paraphrases)
 
 # 文本生成评测
 - ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696)
 - Arixiv 2020, [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+- AAAI2021,Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View[https://www.aaai.org/AAAI21Papers/AAAI-5176.LiuT.pdf]
 
 
 # Story telling
