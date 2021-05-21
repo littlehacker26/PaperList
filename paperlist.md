@@ -116,7 +116,7 @@
 - IJCAI2019,[Controllable Neural Story Plot Generation via Reinforcement Learning](https://arxiv.org/abs/1809.10736)  【强化学习】
 
 # style-tranfer
-- AAAI2020,[Adapting Language Models for Non-Parallel Author-Stylized Rewriting](file:///Users/hanqing/Downloads/6433-Article%20Text-9658-1-10-20200517.pdf)
+- AAAI2020,[Adapting Language Models for Non-Parallel Author-Stylized Rewriting](https://ojs.aaai.org/index.php/AAAI/article/view/6433)
 
 
 
