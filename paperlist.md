@@ -115,6 +115,9 @@
 - Arixiv2021,[Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes](https://arxiv.org/pdf/2104.04039.pdf)
 - IJCAI2019,[Controllable Neural Story Plot Generation via Reinforcement Learning](https://arxiv.org/abs/1809.10736)  【强化学习】
 
+# style-tranfer
+- AAAI2020,[Adapting Language Models for Non-Parallel Author-Stylized Rewriting](file:///Users/hanqing/Downloads/6433-Article%20Text-9658-1-10-20200517.pdf)
+
 
 
 # 其他
