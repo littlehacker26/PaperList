@@ -90,8 +90,8 @@
 - CCOLING2020,[https://arxiv.org/pdf/2005.01822.pdf](https://arxiv.org/pdf/2005.01822.pdf)
 - Arixiv 2021,[FUDGE: Controlled Text Generation With Future Discriminators](https://arxiv.org/pdf/2104.05218.pdf)
 - Arixiv 2020,[DEXPERTS: On-the-Fly Controlled Text Generation with Experts and Anti-Experts](https://arxiv.org/pdf/2105.03023.pdf)
-- NIPS2020,[Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf) 【RL-inspired method】
-- ICML2020,[Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)RL-inspired method】
+- NIPS2020,[Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf) 【强化学习】
+- ICML2020,[Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)【强化学习】
 - NIPS2019,[Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting](https://arxiv.org/abs/1906.09531)
 - TACL2020,[How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 
