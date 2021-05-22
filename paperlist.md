@@ -94,6 +94,7 @@
 - NIPS2020,[Learning to summarize from human feedback](https://arxiv.org/pdf/2009.01325.pdf) 【强化学习】
 - ICML2020,[Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)【强化学习】
 - NIPS2019,[Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting](https://arxiv.org/abs/1906.09531)
+- ICLR2020,[Residual Energy-Based Models for Text Generation](https://arxiv.org/abs/2004.11714)
 - TACL2020,[How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - EMNLP2020,[POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/pdf/2005.00558.pdf)
 
