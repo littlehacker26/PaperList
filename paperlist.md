@@ -95,6 +95,7 @@
 - ICML2020,[Fine-Tuning Language Models from Human Preferences](https://arxiv.org/pdf/1909.08593.pdf)【强化学习】
 - NIPS2019,[Bias Correction of Learned Generative Models using Likelihood-Free Importance Weighting](https://arxiv.org/abs/1906.09531)
 - TACL2020,[How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
+- EMNLP2020,[POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/pdf/2005.00558.pdf)
 
 # 文本生成（传统）
 - 句法结构引导 [Syntax-Guided Controlled Generation of Paraphrases](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled -Generation-of-Paraphrases)
