@@ -110,6 +110,7 @@
 - ACL2020, [Bridging the Structural Gap Between Encoding and Decoding for Data-To-Text Generation](https://www.aclweb.org/anthology/2020.acl-main.224.pdf)
 - EACL2020,[Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning](https://arxiv.org/pdf/2102.03554.pdf)
 - EMNLP2020,[Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/pdf/2007.08426.pdf) 【graph data】
+- Arixiv,[Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/pdf/2103.09120.pdf)【graph data】
 
 # Dialogue generation
 - NAACL2020,[A Simple and Efficient Multi-Task Learning Approach for Conditioned Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
