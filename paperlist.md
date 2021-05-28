@@ -81,11 +81,9 @@
 - ICLR2021,[A DISTRIBUTIONAL APPROACH TO CONTROLLED TEXT GENERATION](https://openreview.net/pdf?id=jWkw45-9AbL)
 - Arixiv,[ Controllable Generation from Pre-trained Language Models via Inverse Prompting](https://arxiv.org/pdf/2103.10685.pdf)
 - arixiv,[Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes](https://arxiv.org/pdf/2104.04039.pdf)
-- arixiv 2021,[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 - ICLR,2021, [COCON: A SELF-SUPERVISED APPROACH FOR CONTROLLED TEXT GENERATION](https://arxiv.org/pdf/2006.03535.pdf)
 - ICLR,2020.[GEDI: GENERATIVE DISCRIMINATOR GUIDED SEQUENCE GENERATION](https://arxiv.org/pdf/2009.06367.pdf)
 - ICLR,2019.[CTRL: A CONDITIONAL TRANSFORMER LANGUAGE MODEL FOR CONTROLLABLE GENERATION](https://arxiv.org/pdf/1909.05858.pdf)
-- EMNLP2020,[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
 - ICML2020,[Discriminative Adversarial Search for Abstractive Summarization](https://arxiv.org/pdf/2002.10375.pdf)
 - EMNLP2020,[If Beam Search is the Answer, What was the Question?](https://arxiv.org/pdf/2010.02650.pdf)
 - CCOLING2020,[Exploring Controllable Text Generation Techniques](https://arxiv.org/pdf/2005.01822.pdf)
@@ -97,6 +95,13 @@
 - ICLR2020,[Residual Energy-Based Models for Text Generation](https://arxiv.org/abs/2004.11714)
 - TACL2020,[How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - EMNLP2020,[POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/pdf/2005.00558.pdf)
+
+# Fine-tuning
+- Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
+- EMNLP2020,[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
+- arixiv 2021,[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
+
+
 
 # 文本生成（传统）
 - 句法结构引导 [Syntax-Guided Controlled Generation of Paraphrases](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled -Generation-of-Paraphrases)
