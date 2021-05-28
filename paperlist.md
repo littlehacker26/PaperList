@@ -117,6 +117,10 @@
 - EMNLP2020,[Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/pdf/2007.08426.pdf) 【graph data】
 - Arixiv,[Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/pdf/2103.09120.pdf)【graph data】
 
+# formats control Text Generation
+
+- ACL2020,[Rigid Formats Controlled Text Generation](https://arxiv.org/abs/2004.08022)
+
 # Dialogue generation
 - NAACL2020,[A Simple and Efficient Multi-Task Learning Approach for Conditioned Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
 - Arixiv2020,[Few-shot Natural Language Generation for Task-Oriented Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
