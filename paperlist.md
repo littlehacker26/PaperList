@@ -127,6 +127,10 @@
 - IJCAI2019,[Controllable Neural Story Plot Generation via Reinforcement Learning](https://arxiv.org/abs/1809.10736)  【强化学习】
 - ACL2020,[MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.226.pdf)
 
+# Evaluation
+- AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View!](https://arxiv.org/abs/2102.08585)
+- ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/pdf/2004.04696.pdf)
+
 # question rewriting
 -ACL2021,[Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting](https://arxiv.org/pdf/2105.11698.pdf)
 
