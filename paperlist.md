@@ -117,7 +117,7 @@
 - EMNLP2020,[Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/pdf/2007.08426.pdf) 【graph data】
 - Arixiv,[Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/pdf/2103.09120.pdf)【graph data】
 
-# formats control Text Generation
+# Formats control Text Generation
 
 - ACL2020,[Rigid Formats Controlled Text Generation](https://arxiv.org/abs/2004.08022)
 
