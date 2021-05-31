@@ -100,6 +100,7 @@
 - Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
 - EMNLP2020,[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
 - arixiv 2021,[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
+- arixic,2021,[AdaPrompt: Adaptive Prompt-based Finetuning for Relation Extraction](https://arxiv.org/abs/2104.07650)
 
 
 
