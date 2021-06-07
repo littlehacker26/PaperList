@@ -131,6 +131,7 @@
 - Arixiv2021,[Plug-and-Blend: A Framework for Controllable Story Generation with Blended Control Codes](https://arxiv.org/pdf/2104.04039.pdf)
 - IJCAI2019,[Controllable Neural Story Plot Generation via Reinforcement Learning](https://arxiv.org/abs/1809.10736)  【强化学习】
 - ACL2020,[MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.226.pdf)
+- ACL2021,[COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion](https://arxiv.org/pdf/2106.02497.pdf)
 
 # Evaluation
 - AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View!](https://arxiv.org/abs/2102.08585)
