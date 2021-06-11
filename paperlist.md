@@ -98,6 +98,7 @@
 - ICLR2020,[Residual Energy-Based Models for Text Generation](https://arxiv.org/abs/2004.11714)
 - TACL2020,[How Can We Know What Language Models Know?](https://arxiv.org/abs/1911.12543)
 - EMNLP2020,[POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/pdf/2005.00558.pdf)
+- Arixiv2021,[Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence](https://arxiv.org/pdf/2105.08963.pdf)
 
 # Fine-tuning
 - Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
