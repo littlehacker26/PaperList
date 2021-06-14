@@ -121,6 +121,7 @@
 - EACL2020,[Does the Order of Training Samples Matter? Improving Neural Data-to-Text Generation with Curriculum Learning](https://arxiv.org/pdf/2102.03554.pdf)
 - EMNLP2020,[Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/pdf/2007.08426.pdf) 【graph data】
 - Arixiv,[Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/pdf/2103.09120.pdf)【graph data】
+- Arixiv2021,[Structural Information Preserving for Graph-to-Text Generation](https://arxiv.org/pdf/2102.06749.pdf)
 
 # Formats control Text Generation
 
