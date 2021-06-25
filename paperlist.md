@@ -100,6 +100,7 @@
 - EMNLP2020,[POINTER: Constrained Progressive Text Generation via Insertion-based Generative Pre-training](https://arxiv.org/pdf/2005.00558.pdf)
 - Arixiv2021,[Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence](https://arxiv.org/pdf/2105.08963.pdf)
 - ACL2020,[Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://arxiv.org/pdf/1911.03882.pdf)
+- AAAI2019,[CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling](https://arxiv.org/pdf/1811.10996.pdf)
 
 # Fine-tuning
 - Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
