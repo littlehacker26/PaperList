@@ -105,6 +105,7 @@
 - Arixiv2021,[Long Text Generation by Modeling Sentence-Level and Discourse-Level Coherence](https://arxiv.org/pdf/2105.08963.pdf)
 - ACL2020,[Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://arxiv.org/pdf/1911.03882.pdf)
 - AAAI2019,[CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling](https://arxiv.org/pdf/1811.10996.pdf)
+- AAAI2020,[Complementary Auxiliary Classifiers for Label-Conditional Text Generation](https://www.microsoft.com/en-us/research/publication/complementary-auxiliary-classifiers-for-label-conditional-text-generation/)
 
 # Fine-tuning
 - Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
