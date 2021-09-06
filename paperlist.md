@@ -107,6 +107,9 @@
 - AAAI2019,[CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling](https://arxiv.org/pdf/1811.10996.pdf)
 - AAAI2020,[Complementary Auxiliary Classifiers for Label-Conditional Text Generation](https://www.microsoft.com/en-us/research/publication/complementary-auxiliary-classifiers-for-label-conditional-text-generation/)
 
+# contrast CTG
+-ICLR2021,[CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION](https://arxiv.org/pdf/2012.07280.pdf)
+
 # Fine-tuning
 - Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
 - EMNLP2020,[AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
