@@ -83,6 +83,7 @@
 # 语言模型
 -ICLR2021,[ANYTIME SAMPLING FOR AUTOREGRESSIVE MODELS VIA ORDERED AUTOENCODING](https://openreview.net/pdf?id=TSRTzJnuEBS)
 
+
 # 可控文本生成
 - ICLR2020,[Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
 - ICLR2021,[A DISTRIBUTIONAL APPROACH TO CONTROLLED TEXT GENERATION](https://openreview.net/pdf?id=jWkw45-9AbL)
@@ -109,6 +110,7 @@
 
 # contrast CTG
 -ICLR2021,[CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION](https://arxiv.org/pdf/2012.07280.pdf)
+-ACL2021,[SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization](https://arxiv.org/pdf/2106.01890.pdf)
 
 # Fine-tuning
 - Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
