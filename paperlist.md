@@ -107,6 +107,7 @@
 - ACL2020,[Pre-train and Plug-in: Flexible Conditional Text Generation with Variational Auto-Encoders](https://arxiv.org/pdf/1911.03882.pdf)
 - AAAI2019,[CGMH: Constrained Sentence Generation by Metropolis-Hastings Sampling](https://arxiv.org/pdf/1811.10996.pdf)
 - AAAI2020,[Complementary Auxiliary Classifiers for Label-Conditional Text Generation](https://www.microsoft.com/en-us/research/publication/complementary-auxiliary-classifiers-for-label-conditional-text-generation/)
+- ACL2021,[Mention Flags (MF): Constraining Transformer-based Text Generators](https://aclanthology.org/2021.acl-long.9.pdf)
 
 # contrast CTG
 -ICLR2021,[CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION](https://arxiv.org/pdf/2012.07280.pdf)
