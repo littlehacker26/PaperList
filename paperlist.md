@@ -24,7 +24,7 @@
   - ICLR 2018,[KRONECKER RECURRENT UNITS](https://openreview.net/pdf?id=SyR6Ul1Pf)
 
 # 对话任务
-  -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](.note//2020_10.md)
+  -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](./note//2020_10.md)
   - EMNLP2020,[Group-wise Contrastive Learning for Neural Dialogue Generation](https://arxiv.org/abs/2009.07543) &[note](.note//2020_11.md)
   - EMNLP2020,[Multi-turn Response Selection using Dialogue Dependency Relations](https://arxiv.org/abs/2010.01502)
   - EMNLP2020,[Structured Attention for Unsupervised Dialogue Structure Induction](https://www.aclweb.org/anthology/2020.emnlp-main.148/)&[note](./note/2020_11.md)
@@ -110,8 +110,8 @@
 - ACL2021,[Mention Flags (MF): Constraining Transformer-based Text Generators](https://aclanthology.org/2021.acl-long.9.pdf)
 
 # contrast CTG
--ICLR2021,[CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION](https://arxiv.org/pdf/2012.07280.pdf)
--ACL2021,[SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization](https://arxiv.org/pdf/2106.01890.pdf)
+-ICLR2021, [CONTRASTIVE LEARNING WITH ADVERSARIAL PERTURBATIONS FOR CONDITIONAL TEXT GENERATION](https://arxiv.org/pdf/2012.07280.pdf)
+-ACL2021,  [SimCLS: A Simple Framework for Contrastive Learning of Abstractive Summarization](https://arxiv.org/pdf/2106.01890.pdf)
 
 # Fine-tuning
 - Arixiv,2021,[The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/pdf/2104.08691.pdf)
