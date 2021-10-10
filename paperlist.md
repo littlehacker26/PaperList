@@ -140,6 +140,7 @@
 - EMNLP2020,[Investigating Pretrained Language Models for Graph-to-Text Generation](https://arxiv.org/pdf/2007.08426.pdf) 【graph data】
 - Arixiv,[Structural Adapters in Pretrained Language Models for AMR-to-text Generation](https://arxiv.org/pdf/2103.09120.pdf)【graph data】
 - Arixiv2021,[Structural Information Preserving for Graph-to-Text Generation](https://arxiv.org/pdf/2102.06749.pdf)
+- EMNLP2021 findinds[Plan-then-Generate: Controlled Data-to-Text Generation via Planning](https://arxiv.org/pdf/2108.13740v1.pdf)
 
 # Formats control Text Generation
 
