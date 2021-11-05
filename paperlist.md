@@ -109,6 +109,7 @@
 - AAAI2020,[Complementary Auxiliary Classifiers for Label-Conditional Text Generation](https://www.microsoft.com/en-us/research/publication/complementary-auxiliary-classifiers-for-label-conditional-text-generation/)
 - ACL2021,[Mention Flags (MF): Constraining Transformer-based Text Generators](https://aclanthology.org/2021.acl-long.9.pdf)
 - Arixiv2021,[Transformer-based Conditional Variational Autoencoder for Controllable Story Generation](https://arxiv.org/pdf/2101.00828.pdf)
+- EMNLP 2020,[PAIR: Planning and Iterative Refinement in Pre-trained Transformers for Long Text Generation](https://arxiv.org/pdf/2010.02301.pdf)
 
 # Data Augmentation
 -EMNLP2020,[Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation](https://arxiv.org/pdf/2012.02952.pdf)
