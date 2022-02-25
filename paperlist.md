@@ -135,6 +135,7 @@
 # 文本生成评测
 - ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696)
 - Arixiv 2020, [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
+- NIPS2021,[MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers](https://arxiv.org/pdf/2102.01454.pdf)
 
 # date to text
 - AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://www.aaai.org/AAAI21Papers/AAAI-5176.LiuT.pdf)
