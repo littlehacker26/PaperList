@@ -165,6 +165,7 @@
 # Evaluation
 - AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View!](https://arxiv.org/abs/2102.08585)
 - ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/pdf/2004.04696.pdf)
+- AAAI2022,[InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation](https://arxiv.org/abs/2112.01589)
 
 # question rewriting
 -ACL2021,[Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting](https://arxiv.org/pdf/2105.11698.pdf)
