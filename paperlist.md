@@ -113,6 +113,7 @@
 - EMNLP2021,[Parallel Refinements for Lexically Constrained Text Generation with BART](https://arxiv.org/pdf/2109.12487.pdf)
 - EMNLP2020,[Gradient-guided Unsupervised Lexically Constrained Text Generation](https://aclanthology.org/2020.emnlp-main.701/)
 - NIPS2021,[A Causal Lens for Controllable Text Generation](https://arxiv.org/pdf/2201.09119.pdf)
+- NIPS2021,[Controlled Text Generation as Continuous Optimization with Multiple Constraints](https://proceedings.neurips.cc/paper/2021/hash/79ec2a4246feb2126ecf43c4a4418002-Abstract.html)
 
 # Data Augmentation
 -EMNLP2020,[Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation](https://arxiv.org/pdf/2012.02952.pdf)
