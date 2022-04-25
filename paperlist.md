@@ -116,6 +116,7 @@
 - NIPS2021,[Controlled Text Generation as Continuous Optimization with Multiple Constraints](https://proceedings.neurips.cc/paper/2021/hash/79ec2a4246feb2126ecf43c4a4418002-Abstract.html)
 - Arixiv2021,[NEUROLOGIC A Fesque Decoding: Constrained Text Generation with Lookahead Heuristics](https://arxiv.org/pdf/2112.08726.pdf)
 - ACL2022,[Fine-Grained Controllable Text Generation Using Non-Residual Prompting](https://openreview.net/pdf?id=poQNS7GAgBJ)
+- ACL2022,[Mix and Match: Learning-free Controllable Text Generation using Energy Language Models](https://arxiv.org/pdf/2203.13299.pdf)
 
 # Data Augmentation
 -EMNLP2020,[Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation](https://arxiv.org/pdf/2012.02952.pdf)
