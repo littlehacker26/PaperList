@@ -117,6 +117,7 @@
 - Arixiv2021,[NEUROLOGIC A Fesque Decoding: Constrained Text Generation with Lookahead Heuristics](https://arxiv.org/pdf/2112.08726.pdf)
 - ACL2022,[Fine-Grained Controllable Text Generation Using Non-Residual Prompting](https://openreview.net/pdf?id=poQNS7GAgBJ)
 - ACL2022,[Mix and Match: Learning-free Controllable Text Generation using Energy Language Models](https://arxiv.org/pdf/2203.13299.pdf)
+- EMNLP2021,[Attribute Alignment: Controlling Text Generation from Pre-trained Language Models](https://arxiv.org/pdf/2103.11070.pdf)
 
 # Data Augmentation
 -EMNLP2020,[Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation](https://arxiv.org/pdf/2012.02952.pdf)
