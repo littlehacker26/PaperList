@@ -122,6 +122,9 @@
 - Arixiv2022,[Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation](https://arxiv.org/pdf/2204.13362.pdf)
 - Arixiv 2021,[Controllable Natural Language Generation with Contrastive Prefixes](https://arxiv.org/pdf/2202.13257.pdf)
 
+# Text generation paeprs
+-ICLR2022,[LANGUAGE MODELING VIA STOCHASTIC PROCESSES](https://arxiv.org/pdf/2203.11370.pdf)
+
 # Data Augmentation
 -EMNLP2020,[Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation](https://arxiv.org/pdf/2012.02952.pdf)
 
