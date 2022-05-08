@@ -177,6 +177,7 @@
 - ACL2020,[MEGATRON-CNTRL: Controllable Story Generation with External Knowledge Using Large-Scale Language Models](https://www.aclweb.org/anthology/2020.emnlp-main.226.pdf)
 - ACL2021,[COINS: Dynamically Generating COntextualized Inference Rules for Narrative Story Completion](https://arxiv.org/pdf/2106.02497.pdf)
 - AAAI2022,[Unsupervised Editing for Counterfactual Stories](https://arxiv.org/abs/2112.05417)
+- WWW2022[Genre-Controllable Story Generation via Supervised Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512004)
 
 # Evaluation
 - AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View!](https://arxiv.org/abs/2102.08585)
