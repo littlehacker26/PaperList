@@ -121,6 +121,7 @@
 - EACL,[Changing the Mind of Transformers for Topically-Controllable Language Generation](https://arxiv.org/pdf/2103.15335.pdf)
 - Arixiv2022,[Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation](https://arxiv.org/pdf/2204.13362.pdf)
 - Arixiv 2021,[Controllable Natural Language Generation with Contrastive Prefixes](https://arxiv.org/pdf/2202.13257.pdf)
+- Arixiv2022,[COLD Decoding:Energy-based Constrained Text Generation with Langevin Dynamics](https://arxiv.org/pdf/2202.11705.pdf)
 
 
 
