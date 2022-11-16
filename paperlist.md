@@ -90,6 +90,7 @@
 - Data Mining and Knowledge Discovery, [Controlling hallucinations at word level in data-to-text generation](https://link.springer.com/article/10.1007/s10618-021-00801-4#Sec1)
 - ACL2022,[Fine-Grained Controllable Text Generation Using Non-Residual Prompting](https://openreview.net/pdf?id=poQNS7GAgBJ)
 - Arixiv,[Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation](https://arxiv.org/abs/2204.13362)
+- EMNLP2020, [Template Guided Text Generation for Task-Oriented Dialogue](https://aclanthology.org/2020.emnlp-main.527/)
 
 
 
