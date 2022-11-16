@@ -83,6 +83,10 @@
 # 语言模型
 -ICLR2021,[ANYTIME SAMPLING FOR AUTOREGRESSIVE MODELS VIA ORDERED AUTOENCODING](https://openreview.net/pdf?id=TSRTzJnuEBS)
 
+# 可控文本生成[2022]
+-Nips2022,[COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics](https://openreview.net/pdf?id=TiZYrQ-mPup)
+-
+
 
 # 可控文本生成
 - ICLR2020,[Plug and Play Language Models: A Simple Approach to Controlled Text Generation](https://arxiv.org/abs/1912.02164)
