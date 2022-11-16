@@ -86,8 +86,10 @@
 # 可控文本生成[2022]
 - Nips2022, [COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics](https://openreview.net/pdf?id=TiZYrQ-mPup)
 - EMNLP2022,[DisCup: Discriminator Cooperative Unlikelihood Prompt Tuning for Controllable Text Generation](https://arxiv.org/abs/2210.09551)
-- - ACL2022,[Mix and Match: Learning-free Controllable Text Generation using Energy Language Models](https://arxiv.org/pdf/2203.13299.pdf)
--Data Mining and Knowledge Discovery, [Controlling hallucinations at word level in data-to-text generation](https://link.springer.com/article/10.1007/s10618-021-00801-4#Sec1)
+- ACL2022,[Mix and Match: Learning-free Controllable Text Generation using Energy Language Models](https://arxiv.org/pdf/2203.13299.pdf)
+- Data Mining and Knowledge Discovery, [Controlling hallucinations at word level in data-to-text generation](https://link.springer.com/article/10.1007/s10618-021-00801-4#Sec1)
+- ACL2022,[Fine-Grained Controllable Text Generation Using Non-Residual Prompting](https://openreview.net/pdf?id=poQNS7GAgBJ)
+- Arixiv,[Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation](https://arxiv.org/abs/2204.13362)
 
 
 
@@ -122,7 +124,6 @@
 - NIPS2021,[A Causal Lens for Controllable Text Generation](https://arxiv.org/pdf/2201.09119.pdf)
 - NIPS2021,[Controlled Text Generation as Continuous Optimization with Multiple Constraints](https://proceedings.neurips.cc/paper/2021/hash/79ec2a4246feb2126ecf43c4a4418002-Abstract.html)
 - Arixiv2021,[NEUROLOGIC A Fesque Decoding: Constrained Text Generation with Lookahead Heuristics](https://arxiv.org/pdf/2112.08726.pdf)
-- ACL2022,[Fine-Grained Controllable Text Generation Using Non-Residual Prompting](https://openreview.net/pdf?id=poQNS7GAgBJ)
 - EMNLP2021,[Attribute Alignment: Controlling Text Generation from Pre-trained Language Models](https://arxiv.org/pdf/2103.11070.pdf)
 - EACL,[Changing the Mind of Transformers for Topically-Controllable Language Generation](https://arxiv.org/pdf/2103.15335.pdf)
 - Arixiv2022,[Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation](https://arxiv.org/pdf/2204.13362.pdf)
