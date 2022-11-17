@@ -91,7 +91,7 @@
 - ACL2022,[Fine-Grained Controllable Text Generation Using Non-Residual Prompting](https://openreview.net/pdf?id=poQNS7GAgBJ)
 - Arixiv,[Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation](https://arxiv.org/abs/2204.13362)
 - EMNLP2020, [Template Guided Text Generation for Task-Oriented Dialogue](https://aclanthology.org/2020.emnlp-main.527/)
-- EMNLP2022,[A Distributional Lens for Multi-Aspect Controllable Text Generation](A Distributional Lens for Multi-Aspect Controllable Text Generation)
+- EMNLP2022,[A Distributional Lens for Multi-Aspect Controllable Text Generation](https://arxiv.org/abs/2210.02889))
 
 
 
