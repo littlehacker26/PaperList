@@ -92,6 +92,7 @@
 - Arixiv,[Tailor: A Prompt-Based Approach to Attribute-Based Controlled Text Generation](https://arxiv.org/abs/2204.13362)
 - EMNLP2020, [Template Guided Text Generation for Task-Oriented Dialogue](https://aclanthology.org/2020.emnlp-main.527/)
 - EMNLP2022,[A Distributional Lens for Multi-Aspect Controllable Text Generation](https://arxiv.org/abs/2210.02889))
+- Nips 2022,[Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217)
 
 
 
