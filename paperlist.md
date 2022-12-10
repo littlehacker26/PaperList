@@ -77,6 +77,11 @@
 - Arixiv 2020,[Neural Passage Retrieval with Improved Negative Contrast](https://arxiv.org/pdf/2010.12523.pdf)
 
 
+# prompt learning
+- EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
+- 
+
+
 #生成综述
 -ICML2018,[https://arxiv.org/pdf/1703.00955.pdf](https://arxiv.org/pdf/1703.00955.pdf)
 
