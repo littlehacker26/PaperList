@@ -79,7 +79,7 @@
 
 # prompt learning
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
-- 
+- EMNLP2022, [Iteratively Prompt Pre-trained Language Models for Chain of Thought](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.174.pdf)
 
 
 #生成综述
