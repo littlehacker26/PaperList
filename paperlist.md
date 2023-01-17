@@ -81,6 +81,8 @@
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
 - EMNLP2022, [Iteratively Prompt Pre-trained Language Models for Chain of Thought](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.174.pdf)
 
+# In context-learning
+- arixic2022, [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
 
 #生成综述
 -ICML2018,[https://arxiv.org/pdf/1703.00955.pdf](https://arxiv.org/pdf/1703.00955.pdf)
