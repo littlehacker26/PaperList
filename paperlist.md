@@ -78,6 +78,7 @@
 
 # Knowledge-enhanced CTG
 - CSUR2022,[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf)
+- CSUR 2022,[Recent Advances in Retrieval-Augmented Text Generation](https://dl.acm.org/doi/abs/10.1145/3477495.3532682)
 
 # prompt learning
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
