@@ -80,6 +80,7 @@
 - CSUR2022,[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf)
 - CSUR 2022,[Recent Advances in Retrieval-Augmented Text Generation](https://dl.acm.org/doi/abs/10.1145/3477495.3532682)
 - NIPS2022,[Decoupling Knowledge from Memorization: Retrieval-augmented Prompt Learning](https://arxiv.org/pdf/2205.14704.pdf)
+- AAAI2022,[RetGen: A Joint Framework for Retrieval and Grounded Text Generation Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/21429)
 
 # prompt learning
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
