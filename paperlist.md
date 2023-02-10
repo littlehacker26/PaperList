@@ -89,6 +89,7 @@
 - ICLR2023,[Progressive Prompts: Continual Learning for Language Models](https://arxiv.org/pdf/2301.12314.pdf)
 - EMNLP2022,[Vector-Quantized Input-Contextualized Soft Prompts for Natural Language Understanding](https://arxiv.org/abs/2205.11024)
 - Arixic,[Instance-aware Prompt Learning for Language Understanding and Generation](https://arxiv.org/abs/2201.07126)
+- EMNLP2022,[IDPG: An Instance-Dependent Prompt Generation Method](https://aclanthology.org/2022.naacl-main.403.pdf)
 
 # In context-learning
 - arixic2022, [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
