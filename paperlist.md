@@ -15,14 +15,6 @@
   - ICLR workshop 2021,[ON FEATURE DIVERSITY IN ENERGY-BASED MODELS](https://openreview.net/pdf?id=ks3Q08yy66r)
 
 
-# 量子与复数网络
-  - IRLR2020, [Benyou Wang, Donghao Zhao, Christina Lioma, Qiuchi Li, Peng Zhang, Jakob Grue Simonsen:Encoding word order in complex embeddings.](https://iclr.cc/virtual_2020/poster_Hke-WTVtwr.html)  & [note](./note/2020_09_25.md)
-  - IRLR2020,[Complex-Valued Neural Networks for Privacy Protection](https://www.researchgate.net/publication/330701041_Complex-Valued_Neural_Networks_for_Privacy_Protection)&[note](./note/2020_10.md)
-  - IRLR2018,[Deep Complex Network](https://arxiv.org/pdf/1705.09792.pdf)&[note](./note/2020_10.md)
-  - NIPS2016,[Unitary Evolution Recurrent Neural Networks](https://arxiv.org/pdf/1511.06464.pdf)
-  - NIPS2016,[Full-Capacity Unitary Recurrent Neural Networks](https://dl.acm.org/doi/pdf/10.5555/3157382.3157643)
-  - ICLR 2018,[KRONECKER RECURRENT UNITS](https://openreview.net/pdf?id=SyR6Ul1Pf)
-
 # 对话任务
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](./note//2020_10.md)
   - EMNLP2020,[Group-wise Contrastive Learning for Neural Dialogue Generation](https://arxiv.org/abs/2009.07543) &[note](.note//2020_11.md)
@@ -32,8 +24,6 @@
   - AAAI2020,[Who Did They Respond to? Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/abs/1911.10666)&[note]()
   - ACL2020,[Towards Emotion-aided Multi-modal Dialogue Act Classification](https://www.aclweb.org/anthology/2020.acl-main.402/)
 
-# 量子应用
-  - AAAI2021,[Quantum-inspired Neural Network for Conversational Emotion Recognition]()
 
 
 # 对话检索
@@ -91,6 +81,7 @@
 - EMNLP2022,[Vector-Quantized Input-Contextualized Soft Prompts for Natural Language Understanding](https://arxiv.org/abs/2205.11024)
 - Arixic,[Instance-aware Prompt Learning for Language Understanding and Generation](https://arxiv.org/abs/2201.07126)
 - EMNLP2022,[IDPG: An Instance-Dependent Prompt Generation Method](https://aclanthology.org/2022.naacl-main.403.pdf)
+- EMNLP2022,[ATTEMPT: Parameter-Efficient Multi-task Tuning via Attentional Mixtures of Soft Prompts](https://aclanthology.org/2022.emnlp-main.446/)
 
 # In context-learning
 - arixic2022, [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
