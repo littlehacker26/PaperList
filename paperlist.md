@@ -73,6 +73,7 @@
 - AAAI2022,[RetGen: A Joint Framework for Retrieval and Grounded Text Generation Modeling](https://ojs.aaai.org/index.php/AAAI/article/view/21429)
 - arixiv2023,[REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652)
 - AAAI2023,[Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)
+- Arixiv2023.[Characterizing Attribution and Fluency Tradeoffs for Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2302.05578)
 
 # prompt learning
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
