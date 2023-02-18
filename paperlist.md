@@ -24,26 +24,23 @@
   - AAAI2020,[Who Did They Respond to? Conversation Structure Modeling Using Masked Hierarchical Transformer](https://arxiv.org/abs/1911.10666)&[note]()
   - ACL2020,[Towards Emotion-aided Multi-modal Dialogue Act Classification](https://www.aclweb.org/anthology/2020.acl-main.402/)
 
-
-
-# 对话检索
+## 对话检索
   - SIGIR2020,[Few-Shot Generative Conversational Query Rewriting](https://www.microsoft.com/en-us/research/publication/few-shot-generative-conversational-query-rewriting/) & [note](./note/2020_09.md)
   - WWWW2020, [Leading Conversational Search by Suggesting Useful Questions.](www.baidu.com)
 
-# 对话结构
+## 对话结构
   - AAAI2018,[Addressee and Response Selection in Multi-Party Conversations with Speaker Interaction RNNs](https://arxiv.org/pdf/1709.04005.pdf)&[note]()
   - ACL2016,[Addressee and Response Selection for Multi-Party Conversation](https://www.aclweb.org/anthology/D16-1231/)&[note]()
   - EMNLP 2019,[Who Is Speaking to Whom? Learning to Identify Utterance Addressee in Multi-Party Conversations](https://www.aclweb.org/anthology/D19-1199/)&[note]()
   - Arixiv2020,[Online Conversation Disentanglement with Pointer Networks](https://arxiv.org/pdf/2010.11080.pdf)
 
-
-# 对话生成
+## 对话生成
 - CIKM2020,[Ranking Enhanced Dialogue Generation](https://arxiv.org/pdf/2008.05640.pdf )
+- NAACL2020,[A Simple and Efficient Multi-Task Learning Approach for Conditioned Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
+- Arixiv2020,[Few-shot Natural Language Generation for Task-Oriented Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
 
 
-
-
-# 多模态对话情感分类
+## 多模态对话情感分类
  - IEEE Trans on Affective Computing,2020. [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/abstract/document/9128015/) &[note](./note/2020_09.md)
  - AAAI2020, [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf)&[note](./note/2020_09.md)
  - Arxiv 2020,[Multi-Task Learning with Auxiliary Speaker Identification for ConversationalEmotion Recognition](https://arxiv.org/abs/2003.01478)&[note]("./note/2020_10.md")
@@ -188,9 +185,7 @@
 
 - ACL2020,[Rigid Formats Controlled Text Generation](https://arxiv.org/abs/2004.08022)
 
-# Dialogue generation
-- NAACL2020,[A Simple and Efficient Multi-Task Learning Approach for Conditioned Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
-- Arixiv2020,[Few-shot Natural Language Generation for Task-Oriented Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
+
 
 # Story telling
 - AAAI2019,[Plan-And-Write: Towards Better Automatic Storytelling](https://arxiv.org/pdf/1811.05701.pdf)
