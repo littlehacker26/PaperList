@@ -160,15 +160,16 @@
 - arixiv 2021,[Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190)
 - arixic,2021,[AdaPrompt: Adaptive Prompt-based Finetuning for Relation Extraction](https://arxiv.org/abs/2104.07650)
 
-
-
 # 文本生成（传统）
-- 句法结构引导 [Syntax-Guided Controlled Generation of Paraphrases](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled -Generation-of-Paraphrases)
+- [Syntax-Guided Controlled Generation of Paraphrases](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00318/96454/Syntax-Guided-Controlled-Generation-of-Paraphrases)
 
 # 文本生成评测
 - ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/abs/2004.04696)
 - Arixiv 2020, [Evaluation of Text Generation: A Survey](https://arxiv.org/abs/2006.14799)
 - NIPS2021,[MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers](https://arxiv.org/pdf/2102.01454.pdf)
+- AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View!](https://arxiv.org/abs/2102.08585)
+- ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/pdf/2004.04696.pdf)
+- AAAI2022,[InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation](https://arxiv.org/abs/2112.01589)
 
 # date to text
 - AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View](https://www.aaai.org/AAAI21Papers/AAAI-5176.LiuT.pdf)
@@ -195,10 +196,6 @@
 - WWW2022[Genre-Controllable Story Generation via Supervised Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512004)
 - AAAI2021[A Controllable Model of Grounded Response Generation](https://arxiv.org/abs/2005.00613)
 
-# Evaluation
-- AAAI2021,[Towards Faithfulness in Open Domain Table-to-text Generation from an Entity-centric View!](https://arxiv.org/abs/2102.08585)
-- ACL2020,[BLEURT: Learning Robust Metrics for Text Generation](https://arxiv.org/pdf/2004.04696.pdf)
-- AAAI2022,[InfoLM: A New Metric to Evaluate Summarization & Data2Text Generation](https://arxiv.org/abs/2112.01589)
 
 # question rewriting
 -ACL2021,[Guiding the Growth: Difficulty-Controllable Question Generation through Step-by-Step Rewriting](https://arxiv.org/pdf/2105.11698.pdf)
