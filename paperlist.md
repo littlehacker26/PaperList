@@ -1,6 +1,4 @@
 # Content
-- [量子与复数网络](#量子与复数网络)
-- [量子应用](#量子应用)
 - [对话检索](#对话检索)
 - [多模态对话情感分类](#多模态对话情感分类)
 - [多模态](#多模态)
@@ -13,6 +11,9 @@
 # 基础理论
   - NIPS2019, [Distributional Reinforcement Learning for Energy-Based Sequential Models](https://arxiv.org/pdf/1912.08517.pdf)
   - ICLR workshop 2021,[ON FEATURE DIVERSITY IN ENERGY-BASED MODELS](https://openreview.net/pdf?id=ks3Q08yy66r)
+  - Arixiv 2020, [SUPERVISED CONTRASTIVE LEARNING FOR PRETRAINED LANGUAGE MODEL FINE-TUNING](https://arxiv.org/abs/2011.01403),&[note]()
+  - Arixiv 2020,[Neural Passage Retrieval with Improved Negative Contrast](https://arxiv.org/pdf/2010.12523.pdf)
+
 
 
 # 对话任务
@@ -59,9 +60,6 @@
 - AAAI,2019,[Found in Translation:Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/pdf/1812.07809.pdf)&[note](./note/2020_10.md)
 
 
-# 热点知识
-- Arixiv 2020, [SUPERVISED CONTRASTIVE LEARNING FOR PRETRAINED LANGUAGE MODEL F INE-TUNING](https://arxiv.org/abs/2011.01403),&[note]()
-- Arixiv 2020,[Neural Passage Retrieval with Improved Negative Contrast](https://arxiv.org/pdf/2010.12523.pdf)
 
 # Knowledge-enhanced CTG
 - CSUR2022,[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf)
@@ -144,9 +142,9 @@
 
 
 
-# Text generation paeprs
--ICLR2022,[LANGUAGE MODELING VIA STOCHASTIC PROCESSES](https://arxiv.org/pdf/2203.11370.pdf)
--ICLR2020,[Neural Text Generation with Unlikelihood Training](https://arxiv.org/abs/1908.04319)
+# Text generation
+- ICLR2022,[LANGUAGE MODELING VIA STOCHASTIC PROCESSES](https://arxiv.org/pdf/2203.11370.pdf)
+- ICLR2020,[Neural Text Generation with Unlikelihood Training](https://arxiv.org/abs/1908.04319)
 
 # Data Augmentation
 -EMNLP2020,[Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation](https://arxiv.org/pdf/2012.02952.pdf)
