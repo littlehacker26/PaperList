@@ -98,6 +98,7 @@
 - EMNLP2020, [Template Guided Text Generation for Task-Oriented Dialogue](https://aclanthology.org/2020.emnlp-main.527/)
 - EMNLP2022,[A Distributional Lens for Multi-Aspect Controllable Text Generation](https://arxiv.org/abs/2210.02889))
 - Nips 2022,[Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217)
+- WSDM2022,[Friendly Conditional Text Generator](https://dl.acm.org/doi/pdf/10.1145/3539597.3570364)
 
 
 
