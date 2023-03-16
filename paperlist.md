@@ -1,12 +1,4 @@
 # Content
-- [对话检索](#对话检索)
-- [多模态对话情感分类](#多模态对话情感分类)
-- [多模态](#多模态)
-- [对话任务](#对话任务)
-- [热点知识](#热点知识)
-- [对话结构](#对话结构)
-- [对话生成](#对话生成)
-- [其他](#其他)
 
 # 基础理论
   - NIPS2019, [Distributional Reinforcement Learning for Energy-Based Sequential Models](https://arxiv.org/pdf/1912.08517.pdf)
@@ -41,7 +33,7 @@
 - Arixiv2020,[Few-shot Natural Language Generation for Task-Oriented Dialogue Generation](https://arxiv.org/pdf/2010.11140.pdf)
 
 
-## 多模态对话情感分类
+#多模态对话情感分类
  - IEEE Trans on Affective Computing,2020. [Adapted Dynamic Memory Network for Emotion Recognition in Conversation](https://ieeexplore.ieee.org/abstract/document/9128015/) &[note](./note/2020_09.md)
  - AAAI2020, [Real-Time Emotion Recognition via Attention Gated Hierarchical Memory Network](https://arxiv.org/pdf/1911.09075.pdf)&[note](./note/2020_09.md)
  - Arxiv 2020,[Multi-Task Learning with Auxiliary Speaker Identification for ConversationalEmotion Recognition](https://arxiv.org/abs/2003.01478)&[note]("./note/2020_10.md")
@@ -54,7 +46,7 @@
  - Arixiv,2020,[A Hierarchical Transformer with Speaker Modeling for Emotion Recognition in Conversation](https://arxiv.org/pdf/2012.14781.pdf)
 
 
-# 多模态
+## 多模态
 - AAAI 2019,[Words Can Shift: Dynamically Adjusting Word Representations Using Nonverbal Behaviors](https://www.aaai.org/ojs/index.php/AAAI/article/view/4706) &[note]("./note/2020_10.md")
 - ACL 2019,[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295.pdf) &[note](./note/2020_10.md)
 - AAAI,2019,[Found in Translation:Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/pdf/1812.07809.pdf)&[note](./note/2020_10.md)
@@ -82,7 +74,7 @@
 # In context-learning
 - arixic2022, [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
 
-#生成综述
+# 生成综述
 -ICML2018,[https://arxiv.org/pdf/1703.00955.pdf](https://arxiv.org/pdf/1703.00955.pdf)
 
 # 语言模型
@@ -139,8 +131,6 @@
 - Arixiv 2021,[Controllable Natural Language Generation with Contrastive Prefixes](https://arxiv.org/pdf/2202.13257.pdf)
 - Arixiv2022,[COLD Decoding:Energy-based Constrained Text Generation with Langevin Dynamics](https://arxiv.org/pdf/2202.11705.pdf)
 - Arixiv 2022,[AutoTemplate: A Simple Recipe for Lexically Constrained Text Generation](https://arxiv.org/pdf/2211.08387.pdf)
-
-
 
 
 # Text generation
