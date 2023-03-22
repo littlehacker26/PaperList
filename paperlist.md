@@ -71,6 +71,7 @@
 - Arixic,[Instance-aware Prompt Learning for Language Understanding and Generation](https://arxiv.org/abs/2201.07126)
 - EMNLP2022,[IDPG: An Instance-Dependent Prompt Generation Method](https://aclanthology.org/2022.naacl-main.403.pdf)
 - EMNLP2022,[ATTEMPT: Parameter-Efficient Multi-task Tuning via Attentional Mixtures of Soft Prompts](https://aclanthology.org/2022.emnlp-main.446/)
+- COLONG2022,[Context-Tuning: Learning Contextualized Prompts for Natural Language Generation](https://arxiv.org/pdf/2201.08670.pdf)
 
 # In context-learning
 - arixic2022, [Memory Augmented Large Language Models are Computationally Universal](https://arxiv.org/abs/2301.04589)
