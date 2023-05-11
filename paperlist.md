@@ -52,7 +52,10 @@
 - ACL 2019,[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295.pdf) &[note](./note/2020_10.md)
 - AAAI,2019,[Found in Translation:Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/pdf/1812.07809.pdf)&[note](./note/2020_10.md)
 
-
+# Instruction Tuning
+- [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
+- [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+- nips2022, [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)
 
 # Knowledge-enhanced CTG
 - CSUR2022,[A Survey of Knowledge-Enhanced Text Generation](https://arxiv.org/pdf/2010.04389.pdf)
