@@ -85,6 +85,9 @@
 # 语言模型
 -ICLR2021,[ANYTIME SAMPLING FOR AUTOREGRESSIVE MODELS VIA ORDERED AUTOENCODING](https://openreview.net/pdf?id=TSRTzJnuEBS)
 
+# CTG LLM
+- Arixiv 2023 [Taming AI Bots: Controllability of Neural States in Large Language Models](https://arxiv.org/abs/2305.18449)
+
 # 可控文本生成[2022]
 - Nips2022, [COLD Decoding: Energy-based Constrained Text Generation with Langevin Dynamics](https://openreview.net/pdf?id=TiZYrQ-mPup)
 - EMNLP2022,[DisCup: Discriminator Cooperative Unlikelihood Prompt Tuning for Controllable Text Generation](https://arxiv.org/abs/2210.09551)
