@@ -52,6 +52,9 @@
 - ACL 2019,[Multimodal Transformer for Unaligned Multimodal Language Sequences](https://arxiv.org/pdf/1906.00295.pdf) &[note](./note/2020_10.md)
 - AAAI,2019,[Found in Translation:Learning Robust Joint Representations by Cyclic Translations Between Modalities](https://arxiv.org/pdf/1812.07809.pdf)&[note](./note/2020_10.md)
 
+# Math and logic reasion
+- [An Empirical Study on Challenging Math Problem Solving with GPT-4](https://arxiv.org/pdf/2306.01337.pdf)
+
 # Instruction Tuning
 - [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
 - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
