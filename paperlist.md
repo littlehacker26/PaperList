@@ -88,6 +88,10 @@
 # 语言模型
 -ICLR2021,[ANYTIME SAMPLING FOR AUTOREGRESSIVE MODELS VIA ORDERED AUTOENCODING](https://openreview.net/pdf?id=TSRTzJnuEBS)
 
+# 逻辑推理
+- Arixic,[Deductive Verification of Chain-of-Thought Reasoning](https://arxiv.org/pdf/2306.03872.pdf)
+- arixiv2022, [Let's Verify Step by Step](https://arxiv.org/abs/2305.20050)
+
 # CTG LLM
 - Arixiv 2023 [Taming AI Bots: Controllability of Neural States in Large Language Models](https://arxiv.org/abs/2305.18449)
 
