@@ -91,6 +91,7 @@
 - arixiv2023,[Certified Reasoning with Language Models](https://arxiv.org/pdf/2306.04031.pdf)
 - [An Empirical Study on Challenging Math Problem Solving with GPT-4](https://arxiv.org/pdf/2306.01337.pdf)
 - Arixiv2023,[COMPLEXITY-BASED PROMPTING FOR MULTI-STEP REASONING.](https://www.semanticscholar.org/reader/c88cafa3e980765a64febe369ceb7c2aa7261d2a)
+- iclr2023[Decomposed Prompting : A MODULAR APPROACH FOR SOLVING COMPLEX TASKS](https://www.semanticscholar.org/reader/07955e96cbd778d0ae2a68f09d073b866dd84c2a)
 
 
 # Cyber Security
