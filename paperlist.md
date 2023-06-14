@@ -96,6 +96,7 @@
 - arixiv 2023 [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
 - arixic 2023 [Active Prompting with Chain-of-Thought for Large Language Models](https://arxiv.org/pdf/2302.12246.pdf)
 - arixiv 2023 [SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651v2.pdf)
+- arixiv 2023 [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf)
 
 
 # Cyber Security
