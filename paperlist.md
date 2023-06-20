@@ -100,6 +100,7 @@
 - arixiv 2023 [SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651v2.pdf)
 - arixiv 2023 [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf)
 - arixiv 2023, [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707)
+- arixiv 2023, [Certified Reasoning with Language Models](https://arxiv.org/pdf/2306.04031.pdf)
 
 
 # Cyber Security
