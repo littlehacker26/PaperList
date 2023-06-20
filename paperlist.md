@@ -94,7 +94,7 @@
 - [An Empirical Study on Challenging Math Problem Solving with GPT-4](https://arxiv.org/pdf/2306.01337.pdf)
 - Arixiv2023, [COMPLEXITY-BASED PROMPTING FOR MULTI-STEP REASONING.](https://www.semanticscholar.org/reader/c88cafa3e980765a64febe369ceb7c2aa7261d2a)
 - iclr2023 [Decomposed Prompting : A MODULAR APPROACH FOR SOLVING COMPLEX TASKS](https://www.semanticscholar.org/reader/07955e96cbd778d0ae2a68f09d073b866dd84c2a)
-- arixiv 2023 [RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought (https://arxiv.org/abs/2305.11499)
+- arixiv 2023 [RCOT: Detecting and Rectifying Factual Inconsistency in Reasoning by Reversing Chain-of-Thought](https://arxiv.org/abs/2305.11499)
 - arixiv 2023 [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/pdf/2304.09797.pdf)
 - arixic 2023 [Active Prompting with Chain-of-Thought for Large Language Models](https://arxiv.org/pdf/2302.12246.pdf)
 - arixiv 2023 [SELF-REFINE: Iterative Refinement with Self-Feedback](https://arxiv.org/pdf/2303.17651v2.pdf)
