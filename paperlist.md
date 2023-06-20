@@ -66,6 +66,7 @@
 - AAAI2023,[Rethinking with Retrieval: Faithful Large Language Model Inference](https://arxiv.org/abs/2301.00303)
 - Arixiv2023.[Characterizing Attribution and Fluency Tradeoffs for Retrieval-Augmented Large Language Models](https://arxiv.org/abs/2302.05578)
 - arixiv2021.[Active Retrieval Augmented Generation](https://arxiv.org/pdf/2305.06983.pdf)
+- arixiv2023.[The Internal State of an LLM Knows When its Lying](https://arxiv.org/pdf/2304.13734.pdf)
 
 # prompt learning
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
