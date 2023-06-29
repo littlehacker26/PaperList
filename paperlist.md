@@ -69,6 +69,7 @@
 - arixiv2023.[The Internal State of an LLM Knows When its Lying](https://arxiv.org/pdf/2304.13734.pdf)
 - arixiv2023. [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/pdf/2306.13063.pdf)
 - arixiv2023.[Long-range Language Modeling with Self-retrieval](https://arxiv.org/pdf/2306.13421.pdf)
+- acl2022. [A Survey on Automated Fact-Checking]()
 
 # prompt learning
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
