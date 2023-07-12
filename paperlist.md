@@ -70,6 +70,7 @@
 - arixiv2023. [Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs](https://arxiv.org/pdf/2306.13063.pdf)
 - arixiv2023.[Long-range Language Modeling with Self-retrieval](https://arxiv.org/pdf/2306.13421.pdf)
 - acl2022. [A Survey on Automated Fact-Checking]()
+- arixiv2023. [A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation (https://arxiv.org/abs/2307.03987)
 
 # prompt learning
 - EMNLP2022, [MemPrompt: Memory-assisted Prompt Editing with User Feedback](https://arxiv.org/pdf/2201.06009.pdf)
