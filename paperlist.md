@@ -7,7 +7,8 @@
   - Arixiv 2020,[Neural Passage Retrieval with Improved Negative Contrast](https://arxiv.org/pdf/2010.12523.pdf)
   - ICLR2022,[MEMORIZING TRANSFORMERS](https://arxiv.org/pdf/2203.08913.pdf)
 
-
+# Empathetic Conversational Response
+- TAFFC [Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9970384)
 
 # 对话任务
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](./note//2020_10.md)
