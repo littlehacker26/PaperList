@@ -1,5 +1,9 @@
 # Content
 
+
+# LLM tuning 
+- arixiv 2023, [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/pdf/2307.04964.pdf)
+
 # 基础理论
   - NIPS2019, [Distributional Reinforcement Learning for Energy-Based Sequential Models](https://arxiv.org/pdf/1912.08517.pdf)
   - ICLR workshop 2021,[ON FEATURE DIVERSITY IN ENERGY-BASED MODELS](https://openreview.net/pdf?id=ks3Q08yy66r)
