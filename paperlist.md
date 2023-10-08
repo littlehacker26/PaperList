@@ -4,6 +4,13 @@
 # LLM tuning 
 - arixiv 2023, [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/pdf/2307.04964.pdf)
 
+# memory-augmented LM
+- emnlp2022,[Training Language Models with Memory Augmentation](https://browse.arxiv.org/pdf/2205.12674.pdf)
+- arxiv 2023,[Long-range Language Modeling with Self-retrieval](https://browse.arxiv.org/pdf/2306.13421.pdf)
+- arxiv 2023, [Adapting Language Models to Compress Contexts](https://browse.arxiv.org/pdf/2305.14788.pdf)
+
+
+
 # 基础理论
   - NIPS2019, [Distributional Reinforcement Learning for Energy-Based Sequential Models](https://arxiv.org/pdf/1912.08517.pdf)
   - ICLR workshop 2021,[ON FEATURE DIVERSITY IN ENERGY-BASED MODELS](https://openreview.net/pdf?id=ks3Q08yy66r)
