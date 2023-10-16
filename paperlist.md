@@ -22,6 +22,7 @@
 - TAFFC [Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9970384)
 - acl [Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset](https://arxiv.org/pdf/1811.00207.pdf)
 - aaai2022 [Knowledge Bridging for Empathetic Dialogue Generation](https://ojs.aaai.org/index.php/AAAI/article/view/21347)
+- www2023 [EmpMFF: A Multi-factor Sequence Fusion Framework for Empathetic Response Generation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583438)
 
 # 对话任务
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](./note//2020_10.md)
