@@ -24,6 +24,7 @@
 - aaai2022 [Knowledge Bridging for Empathetic Dialogue Generation](https://ojs.aaai.org/index.php/AAAI/article/view/21347)
 - www2023 [EmpMFF: A Multi-factor Sequence Fusion Framework for Empathetic Response Generation](https://dl.acm.org/doi/pdf/10.1145/3543507.3583438)
 - emnlp2022.[Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection ](https://github.com/wlr737/EMNLP2022-SEEK/tree/master)
+- NAACL2022[Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances](https://aclanthology.org/2022.naacl-main.303.pdf)
 
 # 对话任务
   -  ACL2020,[A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking](https://www.aclweb.org/anthology/2020.acl-main.563/) &[note](./note//2020_10.md)
