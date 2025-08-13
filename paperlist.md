@@ -1,4 +1,13 @@
-# Content
+<img width="271" height="32" alt="image" src="https://github.com/user-attachments/assets/ef0cc16e-c702-448d-ab65-cb03d9a33664" /># Content
+
+
+# AI4Science 
+-The innonation,  [Artificial intelligence: A powerful paradigm for scientific research]
+(https://www.sciencedirect.com/science/article/pii/S2666675821001041)
+- Nature Communication, [A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals](https://www.nature.com/articles/s41467-022-28494-3)
+- Nature, [Towards accurate differential diagnosis with large language models](https://www.nature.com/articles/s41586-025-08869-4)
+-Nature Medicine, [Open-source LLM DeepSeek on a par with proprietary models in clinical decision making](https://www.nature.com/articles/s41591-025-03850-0)
+
 
 
 # LLM tuning 
