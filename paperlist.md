@@ -9,6 +9,7 @@
 - Nature Medicine, [A generalist medical language model for disease diagnosis assistance](https://www.nature.com/articles/s41591-024-03416-6)
 - Nature methods, [Evaluation of large language models for discovery of gene set function
 ](https://www.nature.com/articles/s41592-024-02525-x)
+- Nature [Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2)
 
 
 
