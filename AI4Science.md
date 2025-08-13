@@ -9,6 +9,7 @@
 -Science,  [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a language diffusion model](https://www.science.org/doi/10.1126/sciadv.adl4000)
 - Sciene, [Negative chemical data boosts language models in reaction outcome prediction](https://www.science.org/doi/10.1126/sciadv.adt5578)
 
+
 # CNS子刊
 
 - The Innonation,  [Artificial intelligence: A powerful paradigm for scientific research](https://www.sciencedirect.com/science/article/pii/S2666675821001041)
@@ -16,3 +17,4 @@
 - Nature Medicine, [A generalist medical language model for disease diagnosis assistance](https://www.nature.com/articles/s41591-024-03416-6)
 - Nature methods, [Evaluation of large language models for discovery of gene set function
 ](https://www.nature.com/articles/s41592-024-02525-x)
+- Science ADVANCE, [A general temperature-guided language model to design proteins of enhanced stability and activity](https://www.science.org/doi/10.1126/sciadv.adr2641)
