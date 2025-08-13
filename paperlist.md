@@ -13,24 +13,13 @@
 - Nature,[Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7)
 - Nature, [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-025-08869-4)
 
-
-
 # LLM tuning 
 - arixiv 2023, [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/pdf/2307.04964.pdf)
-
 # memory-augmented LM
 - emnlp2022,[Training Language Models with Memory Augmentation](https://browse.arxiv.org/pdf/2205.12674.pdf)
 - arxiv 2023,[Long-range Language Modeling with Self-retrieval](https://browse.arxiv.org/pdf/2306.13421.pdf)
 - arxiv 2023, [Adapting Language Models to Compress Contexts](https://browse.arxiv.org/pdf/2305.14788.pdf)
 
-
-
-# 基础理论
-  - NIPS2019, [Distributional Reinforcement Learning for Energy-Based Sequential Models](https://arxiv.org/pdf/1912.08517.pdf)
-  - ICLR workshop 2021,[ON FEATURE DIVERSITY IN ENERGY-BASED MODELS](https://openreview.net/pdf?id=ks3Q08yy66r)
-  - Arixiv 2020, [SUPERVISED CONTRASTIVE LEARNING FOR PRETRAINED LANGUAGE MODEL FINE-TUNING](https://arxiv.org/abs/2011.01403),&[note]()
-  - Arixiv 2020,[Neural Passage Retrieval with Improved Negative Contrast](https://arxiv.org/pdf/2010.12523.pdf)
-  - ICLR2022,[MEMORIZING TRANSFORMERS](https://arxiv.org/pdf/2203.08913.pdf)
 
 # Empathetic Conversational Response
 - TAFFC [Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9970384)
