@@ -11,6 +11,7 @@
 ](https://www.nature.com/articles/s41592-024-02525-x)
 - Nature,[Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2)
 - Nature,[Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7)
+- Nature, [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-025-08869-4)
 
 
 
