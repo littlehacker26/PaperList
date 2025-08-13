@@ -7,6 +7,7 @@
 - Nature, [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-025-08869-4)
 
 # CNS子刊
+
 - The Innonation,  [Artificial intelligence: A powerful paradigm for scientific research](https://www.sciencedirect.com/science/article/pii/S2666675821001041)
 - Nature Communication, [A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals](https://www.nature.com/articles/s41467-022-28494-3)
 - Nature Medicine, [A generalist medical language model for disease diagnosis assistance](https://www.nature.com/articles/s41591-024-03416-6)
