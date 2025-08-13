@@ -17,7 +17,7 @@ dv.adt5578)
 ](https://www.nature.com/articles/s41592-024-02525-x)
 - Science ADVANCE, [A general temperature-guided language model to design proteins of enhanced stability and activity](https://www.science.org/doi/10.1126/sciadv.adr2641)
 - Science ADVANCE, [Learning the rules of peptide self-assembly through data mining with large language models](https://www.science.org/doi/10.1126/sciadv.adv1971)
--Science ADVANCE,  [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a language diffusion model](https://www.science.org/doi/10.1126/sciadv.adl4000)
+- Science ADVANCE,  [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a language diffusion model](https://www.science.org/doi/10.1126/sciadv.adl4000)
 - Science ADVANCE, [Negative chemical data boosts language models in reaction outcome prediction](https://www.science.org/doi/10.1126/sciadv.adt5578)
 
 
