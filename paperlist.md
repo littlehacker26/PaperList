@@ -7,6 +7,8 @@
 - Nature, [Towards accurate differential diagnosis with large language models](https://www.nature.com/articles/s41586-025-08869-4)
 - Nature Medicine, [Open-source LLM DeepSeek on a par with proprietary models in clinical decision making](https://www.nature.com/articles/s41591-025-03850-0)
 - Nature Medicine, [A generalist medical language model for disease diagnosis assistance](https://www.nature.com/articles/s41591-024-03416-6)
+- Nature methods, [Evaluation of large language models for discovery of gene set function
+](https://www.nature.com/articles/s41592-024-02525-x)
 
 
 
