@@ -6,6 +6,9 @@
 - Nature,[Towards conversational diagnostic artificial intelligence](https://www.nature.com/articles/s41586-025-08866-7)
 - Nature, [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-025-08869-4)
 dv.adt5578)
+- Science,[Unsupervised evolution of protein and antibody complexes with a structure-informed language model](https://www.science.org/doi/10.1126/sciadv.adt5578)
+- Science, [Rapid in silico directed evolution by a protein language model with EVOLVEpro](https://www.science.org/doi/10.1126/science.adr6006)
+- Science, [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://www.science.org/doi/10.1126/science.ade2574)
 
 
 # CNS子刊
