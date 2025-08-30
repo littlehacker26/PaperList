@@ -24,7 +24,7 @@
 - Nature Machine Intelligence,  [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
 
 # 会议论文
-- AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](file:///Users/hanqing/Downloads/32030-Article%20Text-36098-1-2-20250410.pdf)
+- AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
 
 
 
