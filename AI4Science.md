@@ -7,6 +7,8 @@
 - Science,[Unsupervised evolution of protein and antibody complexes with a structure-informed language model](https://www.science.org/doi/10.1126/sciadv.adt5578)
 - Science, [Rapid in silico directed evolution by a protein language model with EVOLVEpro](https://www.science.org/doi/10.1126/science.adr6006)
 - Science, [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://www.science.org/doi/10.1126/science.ade2574)
+- Science, [Deep generative models design mRNA sequences with enhanced translational capacity and stability](https://www.science.org/doi/10.1126/science.adr8470)
+- Cell, [Discovery of antimicrobial peptides in the global microbiome with machine learning](https://www.cell.com/cell/fulltext/S0092-8674(24)00522-1)
 
 
 # CNS子刊
