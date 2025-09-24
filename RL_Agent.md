@@ -7,3 +7,11 @@
 # data synthesis
 - Arxiv 2025, [Synthetic Data RL: Task Definition Is All You Need](https://arxiv.org/pdf/2505.17063)
 
+
+
+
+# RL Agent
+- ARXIV 2O25,[BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models](https://arxiv.org/abs/2509.06040)
+- Arxiv 2025,[TreePO: Bridging the Gap of Policy Optimization and Efficacy and Inference Efficiency with Heuristic Tree-based Modeling](https://arxiv.org/abs/2508.17445)
+- Arxiv 2025,[Thought Anchors: which LLM Reasoning steps matter?](https://arxiv.org/abs/2506.19143)
+
