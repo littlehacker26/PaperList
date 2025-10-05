@@ -17,4 +17,5 @@
 - Nips 2025 , [GPO: Learning from Critical Steps to imporve LLM reasonning](https://arxiv.org/abs/2509.16456)
 - Arxiv 2025, [Single-stream Policy Optimization](https://arxiv.org/abs/2509.13232)
 - Arxiv 2025,[NGRPO: Negative-enhanced Group Relative Policy Optimization](https://arxiv.org/html/2509.18851v1)
+- Arxiv 2025, [Tree Search for LLM Agent Reinforcement Learning](https://arxiv.org/abs/2509.21240)
 
