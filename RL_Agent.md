@@ -18,4 +18,5 @@
 - Arxiv 2025, [Single-stream Policy Optimization](https://arxiv.org/abs/2509.13232)
 - Arxiv 2025,[NGRPO: Negative-enhanced Group Relative Policy Optimization](https://arxiv.org/html/2509.18851v1)
 - Arxiv 2025, [Tree Search for LLM Agent Reinforcement Learning](https://arxiv.org/abs/2509.21240)
+- Arxiv 2025, [GTPO And GRPO-S: Token and sequence-level reward shaping with policy entrory](https://arxiv.org/abs/2508.04349)
 
