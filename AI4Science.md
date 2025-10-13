@@ -10,6 +10,8 @@
 - Science, [Evolutionary-scale prediction of atomic-level protein structure with a language model](https://www.science.org/doi/10.1126/science.ade2574)
 - Science, [Deep generative models design mRNA sequences with enhanced translational capacity and stability](https://www.science.org/doi/10.1126/science.adr8470)
 - Cell, [Discovery of antimicrobial peptides in the global microbiome with machine learning](https://www.cell.com/cell/fulltext/S0092-8674(24)00522-1)
+- Nature 2025 [Connecting chemical and protein sequence space to predict biocatalytic reactions](https://www.nature.com/articles/s41586-025-09519-5)_
+- Nature 2025 [Enzyme specificity prediction using cross attention graph neural networks](https://www.nature.com/articles/s41586-025-09519-5)
 
 
 # CNS子刊
