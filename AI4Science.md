@@ -24,7 +24,6 @@
 - Science ADVANCE, [Learning the rules of peptide self-assembly through data mining with large language models](https://www.science.org/doi/10.1126/sciadv.adv1971)
 - Science ADVANCE,  [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a language diffusion model](https://www.science.org/doi/10.1126/sciadv.adl4000)
 - Science ADVANCE, [Negative chemical data boosts language models in reaction outcome prediction](https://www.science.org/doi/10.1126/sciadv.adt5578)
-- Nature Machine Intelligence,  [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
 
 # 会议论文
 - AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
@@ -37,5 +36,7 @@
 - Nature Biotechnology 2023, [Large language models generate functional protein sequences across diverse families](https://www.nature.com/articles/s41587-022-01618-2)
 - Arxiv [Multi-purpose controllable protein generation via prompted language models](https://www.biorxiv.org/content/10.1101/2024.11.17.624051v1.abstract)
 - Nature Intelligence Machine 2024 [DNA language model GROVER learns sequence context in the human genome](https://www.nature.com/articles/s42256-022-00499-z)
+- Nature Machine Intelligence 2022,  [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
+
 
 
