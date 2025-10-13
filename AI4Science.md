@@ -32,13 +32,14 @@
 - 
 
 
-# An for Design
+# DNA Language Model
 - Science Advance [Discovery of antimicrobial peptides with notable antibacterial potency by an LLM-based foundation model](https://www.science.org/doi/10.1126/sciadv.ads8932)
 - ACL 2024 [InstructProtein: Aligning Human and Protein Language via Knowledge Instruction](https://aclanthology.org/2024.acl-long.62.pdf)
 - Nature Biotechnology 2023, [Large language models generate functional protein sequences across diverse families](https://www.nature.com/articles/s41587-022-01618-2)
 - Arxiv [Multi-purpose controllable protein generation via prompted language models](https://www.biorxiv.org/content/10.1101/2024.11.17.624051v1.abstract)
 - Nature Intelligence Machine 2024 [DNA language model GROVER learns sequence context in the human genome](https://www.nature.com/articles/s42256-022-00499-z)
 - Nature Machine Intelligence 2022,  [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
+- Nature communication 2024,[A long-context language model for deciphering and generating bacteriophage genomes](https://www.nature.com/articles/s41467-024-53759-4?fromPaywallRec=false)
 
 
 
