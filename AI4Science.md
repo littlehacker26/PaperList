@@ -27,6 +27,7 @@
 - Science ADVANCE,  [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a language diffusion model](https://www.science.org/doi/10.1126/sciadv.adl4000)
 - Science ADVANCE, [Negative chemical data boosts language models in reaction outcome prediction](https://www.science.org/doi/10.1126/sciadv.adt5578)
 - Nature medicine, [BiomedGPT: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks](https://arxiv.org/pdf/2305.17100)
+- Nature Machine Intelligence, [Advancing biomolecular understanding and design following human instructions](https://www.nature.com/articles/s42256-025-01064-0)
 
 # 会议论文
 - AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
