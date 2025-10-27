@@ -32,6 +32,7 @@
 - Nature Method 2024, [scGPT: toward building a foundation model for single-cell multi-omics using generative AI
 ](https://www.nature.com/articles/s41592-024-02201-0)
 - Nature Experimental & Molecular Medicine 2025 ,[Single-cell foundation models: bringing artificial intelligence into cell biology](https://www.nature.com/articles/s12276-025-01547-5?fromPaywallRec=false)
+- Nature mehods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
 
 # 会议论文
 - AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
