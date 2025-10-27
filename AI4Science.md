@@ -28,6 +28,8 @@
 - Science ADVANCE, [Negative chemical data boosts language models in reaction outcome prediction](https://www.science.org/doi/10.1126/sciadv.adt5578)
 - Nature medicine, [BiomedGPT: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks](https://arxiv.org/pdf/2305.17100)
 - Nature Machine Intelligence, [Advancing biomolecular understanding and design following human instructions](https://www.nature.com/articles/s42256-025-01064-0)
+- Nature Method 2024, [scGPT: toward building a foundation model for single-cell multi-omics using generative AI
+](https://www.nature.com/articles/s41592-024-02201-0)
 
 # 会议论文
 - AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
