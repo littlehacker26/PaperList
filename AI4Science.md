@@ -14,6 +14,7 @@
 - Nature 2025 [Enzyme specificity prediction using cross attention graph neural networks](https://www.nature.com/articles/s41586-025-09519-5)
 
 
+
 # CNS子刊
 
 - The Innonation,  [Artificial intelligence: A powerful paradigm for scientific research](https://www.sciencedirect.com/science/article/pii/S2666675821001041)
@@ -30,6 +31,7 @@
 - Nature Machine Intelligence, [Advancing biomolecular understanding and design following human instructions](https://www.nature.com/articles/s42256-025-01064-0)
 - Nature Method 2024, [scGPT: toward building a foundation model for single-cell multi-omics using generative AI
 ](https://www.nature.com/articles/s41592-024-02201-0)
+- Nature Experimental & Molecular Medicine 2025 ,[Single-cell foundation models: bringing artificial intelligence into cell biology](https://www.nature.com/articles/s12276-025-01547-5?fromPaywallRec=false)
 
 # 会议论文
 - AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
