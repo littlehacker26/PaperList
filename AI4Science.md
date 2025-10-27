@@ -35,7 +35,7 @@
 - Nature mehods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
 
 # 预印论文
-- Arxiv 2025 [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v4)
+- Arxiv 2025 [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v4.full.pdf)
 
 
 # DNA Language Model
