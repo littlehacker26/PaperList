@@ -34,9 +34,8 @@
 - Nature Experimental & Molecular Medicine 2025 ,[Single-cell foundation models: bringing artificial intelligence into cell biology](https://www.nature.com/articles/s12276-025-01547-5?fromPaywallRec=false)
 - Nature mehods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
 
-# 会议论文
-- AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
-- 
+# 预印论文
+- Arxiv 2025 [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v4)
 
 
 # DNA Language Model
@@ -47,6 +46,8 @@
 - Nature Intelligence Machine 2024 [DNA language model GROVER learns sequence context in the human genome](https://www.nature.com/articles/s42256-022-00499-z)
 - Nature Machine Intelligence 2022,  [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
 - Nature communication 2024,[A long-context language model for deciphering and generating bacteriophage genomes](https://www.nature.com/articles/s41467-024-53759-4?fromPaywallRec=false)
+- AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
+
 
 
 
