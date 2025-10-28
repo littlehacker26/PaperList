@@ -12,7 +12,6 @@
 - Cell, [Discovery of antimicrobial peptides in the global microbiome with machine learning](https://www.cell.com/cell/fulltext/S0092-8674(24)00522-1)
 - Nature 2025 [Connecting chemical and protein sequence space to predict biocatalytic reactions](https://www.nature.com/articles/s41586-025-09519-5)_
 - Nature 2025 [Enzyme specificity prediction using cross attention graph neural networks](https://www.nature.com/articles/s41586-025-09519-5)
-- Nature mehthods 2025 [EpiAgent: foundation model for single-cell epigenomics](https://www.nature.com/articles/s41592-025-02822-z)
 
 
 
@@ -33,7 +32,9 @@
 - Nature Method 2024, [scGPT: toward building a foundation model for single-cell multi-omics using generative AI
 ](https://www.nature.com/articles/s41592-024-02201-0)
 - Nature Experimental & Molecular Medicine 2025 ,[Single-cell foundation models: bringing artificial intelligence into cell biology](https://www.nature.com/articles/s12276-025-01547-5?fromPaywallRec=false)
-- Nature mehods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
+- Nature Methods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
+- Nature Methods 2025 [EpiAgent: foundation model for single-cell epigenomics](https://www.nature.com/articles/s41592-025-02822-z)
+
 
 # 预印论文
 - Arxiv 2025 [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v4.full.pdf)
