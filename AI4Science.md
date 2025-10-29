@@ -35,6 +35,7 @@
 - Nature Methods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
 - Nature Methods 2025 [EpiAgent: foundation model for single-cell epigenomics](https://www.nature.com/articles/s41592-025-02822-z)
 - Nature Intelligence Machine[Boosting the predictive power of protein representations with a corpus of text annotations](https://www.nature.com/articles/s42256-025-01088-6)
+- Narure Machine Intelligence  [Transfer learning enables predictions in network biology](https://www.nature.com/articles/s41586-023-06139-9)
 
 
 # 预印论文
