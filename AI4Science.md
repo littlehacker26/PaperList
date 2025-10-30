@@ -41,6 +41,7 @@
 # 预印论文
 - Arxiv 2025 [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v4.full.pdf)
 - Arxiv 2025 [Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters](https://www.biorxiv.org/content/10.1101/2025.10.23.683759v1.full.pdf)
+- Arxiv 2025.10  [SCALING LARGE LANGUAGE MODELS FOR NEXT-GENERATION SINGLE-CELL ANALYSIS](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v3.full.pdf)
 
 
 # DNA Language Model
