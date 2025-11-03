@@ -45,6 +45,8 @@
 - Arxiv 2025 [Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](https://arxiv.org/pdf/2506.18898)
 
 
+
+
 # DNA Language Model
 - Science Advance [Discovery of antimicrobial peptides with notable antibacterial potency by an LLM-based foundation model](https://www.science.org/doi/10.1126/sciadv.ads8932)
 - ACL 2024 [InstructProtein: Aligning Human and Protein Language via Knowledge Instruction](https://aclanthology.org/2024.acl-long.62.pdf)
@@ -54,6 +56,7 @@
 - Nature Machine Intelligence 2022,  [Controllable protein design with language models](https://www.nature.com/articles/s42256-022-00499-z)
 - Nature communication 2024,[A long-context language model for deciphering and generating bacteriophage genomes](https://www.nature.com/articles/s41467-024-53759-4?fromPaywallRec=false)
 - AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
+- TAI2025, [ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing](https://arxiv.org/pdf/2402.16445)
 
 
 
