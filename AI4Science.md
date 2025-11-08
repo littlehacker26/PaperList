@@ -15,9 +15,16 @@
 - Nature 2025 [Enzyme specificity prediction using cross attention graph neural networks](https://www.nature.com/articles/s41586-025-09519-5)
 - Nature 2023  [Transfer learning enables predictions in network biology](https://www.nature.com/articles/s41586-023-06139-9)
 
+# Single Cell
+- Nature Methods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
+- Nature Methods 2025 [EpiAgent: foundation model for single-cell epigenomics](https://www.nature.com/articles/s41592-025-02822-z)
+- Nature Method 2024, [scGPT: toward building a foundation model for single-cell multi-omics using generative AI](https://www.nature.com/articles/s41592-024-02201-0)
+- Nature Experimental & Molecular Medicine 2025 ,[Single-cell foundation models: bringing artificial intelligence into cell biology](https://www.nature.com/articles/s12276-025-01547-5?fromPaywallRec=false)
+- Arxiv 2025 [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v4.full.pdf)
+- Arxiv 2025 [Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters](https://www.biorxiv.org/content/10.1101/2025.10.23.683759v1.full.pdf)
+- Arxiv 2025.10  [SCALING LARGE LANGUAGE MODELS FOR NEXT-GENERATION SINGLE-CELL ANALYSIS](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v3.full.pdf)
 
 # CNS子刊
-
 - The Innonation,  [Artificial intelligence: A powerful paradigm for scientific research](https://www.sciencedirect.com/science/article/pii/S2666675821001041)
 - Nature Communication, [A deep-learning system bridging molecule structure and biomedical text with comprehension comparable to human professionals](https://www.nature.com/articles/s41467-022-28494-3)
 - Nature Medicine, [Open-source LLM DeepSeek on a par with proprietary models in clinical decision making](https://www.nature.com/articles/s41591-025-03850-0)
@@ -30,19 +37,9 @@
 - Science ADVANCE, [Negative chemical data boosts language models in reaction outcome prediction](https://www.science.org/doi/10.1126/sciadv.adt5578)
 - Nature medicine, [BiomedGPT: A Generalist Vision-Language Foundation Model for Diverse Biomedical Tasks](https://arxiv.org/pdf/2305.17100)
 - Nature Machine Intelligence, [Advancing biomolecular understanding and design following human instructions](https://www.nature.com/articles/s42256-025-01064-0)
-- Nature Method 2024, [scGPT: toward building a foundation model for single-cell multi-omics using generative AI
-](https://www.nature.com/articles/s41592-024-02201-0)
-- Nature Experimental & Molecular Medicine 2025 ,[Single-cell foundation models: bringing artificial intelligence into cell biology](https://www.nature.com/articles/s12276-025-01547-5?fromPaywallRec=false)
-- Nature Methods, [Transformers in single-cell omics: a review and new perspectives](https://www.nature.com/articles/s41592-024-02353-z?fromPaywallRec=false)
-- Nature Methods 2025 [EpiAgent: foundation model for single-cell epigenomics](https://www.nature.com/articles/s41592-025-02822-z)
-- Nature Intelligence Machine[Boosting the predictive power of protein representations with a corpus of text annotations](https://www.nature.com/articles/s42256-025-01088-6)
-- Nature biotechnology [Democratizing protein language model training, sharing and collaboration](https://www.nature.com/articles/s41587-025-02859-7)
 
 
-# 预印论文
-- Arxiv 2025 [Cell2Sentence: Teaching Large Language Models the Language of Biology](https://www.biorxiv.org/content/10.1101/2023.09.11.557287v4.full.pdf)
-- Arxiv 2025 [Tahoe-x1: Scaling Perturbation-Trained Single-Cell Foundation Models to 3 Billion Parameters](https://www.biorxiv.org/content/10.1101/2025.10.23.683759v1.full.pdf)
-- Arxiv 2025.10  [SCALING LARGE LANGUAGE MODELS FOR NEXT-GENERATION SINGLE-CELL ANALYSIS](https://www.biorxiv.org/content/10.1101/2025.04.14.648850v3.full.pdf)
+# 技术方法论文
 - Arxiv 2025 [Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations](https://arxiv.org/pdf/2506.18898)
 
 
@@ -58,6 +55,8 @@
 - Nature communication 2024,[A long-context language model for deciphering and generating bacteriophage genomes](https://www.nature.com/articles/s41467-024-53759-4?fromPaywallRec=false)
 - AAAI, [Controllable Protein Sequence Generation with LLM Preference Optimization](https://arxiv.org/abs/2501.15007)
 - TAI2025, [ProLLaMA: A Protein Large Language Model for Multi-Task Protein Language Processing](https://arxiv.org/pdf/2402.16445)
+- Nature Intelligence Machine[Boosting the predictive power of protein representations with a corpus of text annotations](https://www.nature.com/articles/s42256-025-01088-6)
+- Nature biotechnology [Democratizing protein language model training, sharing and collaboration](https://www.nature.com/articles/s41587-025-02859-7)
 
 
 
